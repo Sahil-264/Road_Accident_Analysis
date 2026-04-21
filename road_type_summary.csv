@@ -1,0 +1,6 @@
+road_type,total_accidents,total_fatalities,fatality_rate_pct,serious_injuries,avg_speed_kmph
+National Highway,11337,5980,4.5,101,49.0
+State Highway,36534,5744,10.5,962,45.7
+Urban Road,19363,5076,13.1,2496,59.5
+Rural Road,35955,4147,7.5,1787,78.3
+Expressway,27303,3822,7.3,2080,55.5
