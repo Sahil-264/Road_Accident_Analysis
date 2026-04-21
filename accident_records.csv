@@ -1,0 +1,1201 @@
+accident_id,accident_date,state,road_type,cause,weather,light_condition,vehicle_type,severity,casualties,fatalities,speed_kmph
+ACC00001,2023-11-22 06:00,Rajasthan,State Highway,Bad Weather,Foggy,Night - No Light,Pedestrian,Minor,4,0,80.4
+ACC00002,2020-08-21 06:00,Karnataka,State Highway,Distracted Driving,Clear,Night - No Light,Truck,Fatal,1,0,46.8
+ACC00003,2018-10-01 01:00,Uttar Pradesh,Urban Road,Signal Jumping,Foggy,Daylight,Pedestrian,Minor,2,1,84.1
+ACC00004,2023-03-26 09:00,Rajasthan,Urban Road,Vehicle Failure,Clear,Night - Street Lit,Car,Minor,2,0,36.4
+ACC00005,2023-04-14 14:00,Rajasthan,Expressway,Bad Weather,Rainy,Night - No Light,Car,Serious,1,1,68.3
+ACC00006,2018-12-11 01:00,Bihar,Rural Road,Wrong Side Driving,Rainy,Night - No Light,Truck,Serious,2,0,104.4
+ACC00007,2021-11-12 17:00,Bihar,State Highway,Wrong Side Driving,Windy,Dawn/Dusk,Bus,Serious,1,0,73.7
+ACC00008,2020-07-13 21:00,Uttar Pradesh,National Highway,Distracted Driving,Rainy,Dawn/Dusk,Bus,Serious,2,0,22.6
+ACC00009,2019-06-13 01:00,Uttar Pradesh,Rural Road,Drunk Driving,Foggy,Night - No Light,Pedestrian,Minor,1,0,50.3
+ACC00010,2022-05-16 23:00,Odisha,State Highway,Vehicle Failure,Hazy,Night - No Light,Bus,Serious,4,1,2.2
+ACC00011,2018-02-09 00:00,Bihar,National Highway,Drunk Driving,Foggy,Daylight,Pedestrian,Fatal,0,0,28.4
+ACC00012,2022-09-17 18:00,West Bengal,Rural Road,Bad Weather,Foggy,Night - No Light,Bus,Fatal,0,0,61.5
+ACC00013,2020-03-21 11:00,Karnataka,State Highway,Poor Road Condition,Windy,Night - No Light,Truck,Minor,2,0,83.3
+ACC00014,2022-08-28 04:00,Bihar,Rural Road,Wrong Side Driving,Windy,Night - Street Lit,Car,Minor,2,1,51.9
+ACC00015,2018-05-25 12:00,Odisha,Expressway,Drunk Driving,Windy,Daylight,Two-Wheeler,Minor,4,0,27.8
+ACC00016,2021-06-03 10:00,Gujarat,Expressway,Drunk Driving,Clear,Night - Street Lit,Car,Fatal,2,2,60.8
+ACC00017,2020-04-16 21:00,Gujarat,Expressway,Signal Jumping,Foggy,Night - Street Lit,Truck,Serious,3,3,93.0
+ACC00018,2018-05-09 06:00,Odisha,Rural Road,Distracted Driving,Foggy,Night - No Light,Pedestrian,Minor,6,3,11.7
+ACC00019,2018-08-12 23:00,Madhya Pradesh,National Highway,Signal Jumping,Hazy,Night - No Light,Car,Fatal,0,0,105.6
+ACC00020,2023-09-03 05:00,Bihar,Urban Road,Vehicle Failure,Windy,Night - No Light,Car,Fatal,1,0,49.1
+ACC00021,2023-08-02 00:00,Gujarat,Rural Road,Over Speeding,Rainy,Night - No Light,Bus,Serious,1,1,113.9
+ACC00022,2018-01-21 16:00,Bihar,National Highway,Bad Weather,Clear,Night - Street Lit,Two-Wheeler,Serious,2,1,107.9
+ACC00023,2022-03-21 05:00,Tamil Nadu,Urban Road,Vehicle Failure,Hazy,Night - No Light,Pedestrian,Serious,3,1,72.8
+ACC00024,2023-02-16 04:00,Rajasthan,Expressway,Drunk Driving,Rainy,Daylight,Car,Fatal,3,0,76.0
+ACC00025,2023-07-06 10:00,West Bengal,Rural Road,Vehicle Failure,Windy,Daylight,Bus,Minor,2,1,39.5
+ACC00026,2018-04-04 18:00,Bihar,Rural Road,Drunk Driving,Hazy,Night - No Light,Auto-Rickshaw,Minor,1,0,2.6
+ACC00027,2019-03-24 22:00,Karnataka,Rural Road,Over Speeding,Foggy,Daylight,Pedestrian,Minor,3,1,22.6
+ACC00028,2020-07-18 12:00,Odisha,State Highway,Bad Weather,Windy,Dawn/Dusk,Two-Wheeler,Serious,3,1,68.8
+ACC00029,2023-07-18 05:00,Bihar,Urban Road,Vehicle Failure,Hazy,Daylight,Bus,Serious,0,0,106.9
+ACC00030,2021-07-17 12:00,Maharashtra,National Highway,Signal Jumping,Windy,Night - No Light,Bus,Minor,1,0,53.9
+ACC00031,2022-11-17 01:00,Maharashtra,Rural Road,Poor Road Condition,Foggy,Night - No Light,Auto-Rickshaw,Fatal,3,0,93.1
+ACC00032,2018-08-02 15:00,Gujarat,National Highway,Vehicle Failure,Windy,Night - No Light,Pedestrian,Fatal,6,2,83.1
+ACC00033,2021-08-12 09:00,Tamil Nadu,National Highway,Wrong Side Driving,Rainy,Dawn/Dusk,Truck,Minor,3,0,28.2
+ACC00034,2020-11-08 00:00,Uttar Pradesh,State Highway,Distracted Driving,Rainy,Dawn/Dusk,Two-Wheeler,Serious,0,0,4.1
+ACC00035,2021-05-18 16:00,Uttar Pradesh,National Highway,Signal Jumping,Hazy,Daylight,Truck,Minor,1,1,90.0
+ACC00036,2019-06-18 03:00,Odisha,Urban Road,Drunk Driving,Rainy,Night - Street Lit,Pedestrian,Minor,4,2,100.9
+ACC00037,2018-03-10 20:00,Gujarat,State Highway,Drunk Driving,Foggy,Night - Street Lit,Car,Fatal,3,0,82.3
+ACC00038,2020-06-12 03:00,Tamil Nadu,Expressway,Drunk Driving,Clear,Daylight,Two-Wheeler,Minor,2,1,86.2
+ACC00039,2023-02-12 16:00,Bihar,Rural Road,Distracted Driving,Foggy,Daylight,Car,Fatal,0,0,45.1
+ACC00040,2019-10-02 08:00,Madhya Pradesh,Expressway,Vehicle Failure,Rainy,Night - No Light,Auto-Rickshaw,Fatal,1,0,32.1
+ACC00041,2023-07-22 12:00,Rajasthan,Expressway,Poor Road Condition,Hazy,Night - Street Lit,Car,Fatal,1,0,62.8
+ACC00042,2018-09-14 14:00,Madhya Pradesh,Rural Road,Vehicle Failure,Rainy,Night - Street Lit,Two-Wheeler,Minor,0,0,91.2
+ACC00043,2019-07-05 00:00,Odisha,National Highway,Signal Jumping,Clear,Night - No Light,Pedestrian,Minor,1,0,62.9
+ACC00044,2023-01-28 08:00,Karnataka,Rural Road,Signal Jumping,Windy,Daylight,Pedestrian,Serious,3,2,85.6
+ACC00045,2018-08-02 10:00,Karnataka,National Highway,Signal Jumping,Hazy,Dawn/Dusk,Two-Wheeler,Minor,3,1,37.9
+ACC00046,2019-01-06 00:00,Odisha,Expressway,Wrong Side Driving,Clear,Daylight,Pedestrian,Serious,1,0,10.9
+ACC00047,2023-12-23 21:00,Tamil Nadu,Expressway,Wrong Side Driving,Hazy,Night - No Light,Pedestrian,Fatal,2,1,20.0
+ACC00048,2018-06-13 20:00,Madhya Pradesh,Urban Road,Over Speeding,Clear,Night - Street Lit,Two-Wheeler,Serious,3,3,98.2
+ACC00049,2023-06-22 17:00,Madhya Pradesh,Urban Road,Poor Road Condition,Windy,Daylight,Auto-Rickshaw,Fatal,4,2,100.7
+ACC00050,2018-05-20 08:00,Odisha,Expressway,Over Speeding,Foggy,Dawn/Dusk,Pedestrian,Serious,1,1,102.4
+ACC00051,2019-06-19 04:00,Madhya Pradesh,Rural Road,Wrong Side Driving,Foggy,Night - Street Lit,Truck,Fatal,1,1,31.7
+ACC00052,2022-05-03 18:00,Maharashtra,National Highway,Wrong Side Driving,Hazy,Daylight,Bus,Fatal,1,0,32.5
+ACC00053,2022-04-05 15:00,Rajasthan,Expressway,Over Speeding,Hazy,Night - Street Lit,Car,Fatal,2,1,92.9
+ACC00054,2020-02-04 20:00,Bihar,Expressway,Wrong Side Driving,Rainy,Daylight,Auto-Rickshaw,Minor,3,2,27.4
+ACC00055,2022-11-01 21:00,Maharashtra,Urban Road,Wrong Side Driving,Clear,Dawn/Dusk,Bus,Fatal,0,0,3.0
+ACC00056,2020-09-06 06:00,West Bengal,Rural Road,Poor Road Condition,Hazy,Night - Street Lit,Two-Wheeler,Fatal,1,0,4.3
+ACC00057,2023-01-20 01:00,Uttar Pradesh,State Highway,Over Speeding,Foggy,Dawn/Dusk,Pedestrian,Serious,0,0,40.0
+ACC00058,2023-04-08 18:00,Uttar Pradesh,National Highway,Vehicle Failure,Hazy,Dawn/Dusk,Two-Wheeler,Minor,4,2,6.3
+ACC00059,2018-06-05 20:00,Rajasthan,State Highway,Wrong Side Driving,Clear,Night - Street Lit,Auto-Rickshaw,Minor,0,0,81.9
+ACC00060,2021-10-18 00:00,Maharashtra,Expressway,Wrong Side Driving,Rainy,Night - No Light,Car,Minor,4,0,65.3
+ACC00061,2021-06-20 08:00,West Bengal,Urban Road,Drunk Driving,Foggy,Daylight,Pedestrian,Fatal,5,1,10.5
+ACC00062,2022-03-07 16:00,Uttar Pradesh,State Highway,Poor Road Condition,Clear,Dawn/Dusk,Two-Wheeler,Minor,0,0,42.1
+ACC00063,2022-03-13 01:00,Gujarat,National Highway,Vehicle Failure,Hazy,Night - Street Lit,Bus,Minor,0,0,82.9
+ACC00064,2023-08-05 08:00,Odisha,Expressway,Wrong Side Driving,Foggy,Night - No Light,Truck,Fatal,2,0,81.2
+ACC00065,2018-12-20 11:00,Uttar Pradesh,Expressway,Vehicle Failure,Hazy,Daylight,Car,Minor,1,1,41.0
+ACC00066,2021-06-01 16:00,Madhya Pradesh,Urban Road,Wrong Side Driving,Clear,Night - Street Lit,Truck,Minor,1,1,110.9
+ACC00067,2022-06-24 06:00,Odisha,State Highway,Bad Weather,Windy,Night - No Light,Auto-Rickshaw,Serious,3,1,51.5
+ACC00068,2018-11-14 19:00,Gujarat,Urban Road,Over Speeding,Hazy,Dawn/Dusk,Bus,Fatal,0,0,98.8
+ACC00069,2023-12-13 14:00,Odisha,State Highway,Bad Weather,Foggy,Night - Street Lit,Truck,Serious,0,0,87.3
+ACC00070,2018-06-13 08:00,Odisha,National Highway,Bad Weather,Clear,Daylight,Auto-Rickshaw,Serious,4,0,115.0
+ACC00071,2023-11-23 23:00,Madhya Pradesh,Expressway,Over Speeding,Hazy,Night - No Light,Two-Wheeler,Fatal,3,0,67.4
+ACC00072,2022-07-20 00:00,Rajasthan,Expressway,Distracted Driving,Rainy,Dawn/Dusk,Bus,Fatal,0,0,102.6
+ACC00073,2018-05-01 15:00,Karnataka,Urban Road,Bad Weather,Rainy,Dawn/Dusk,Auto-Rickshaw,Serious,3,0,33.0
+ACC00074,2021-04-01 14:00,Tamil Nadu,National Highway,Drunk Driving,Hazy,Night - Street Lit,Truck,Fatal,3,0,12.0
+ACC00075,2019-10-08 15:00,Maharashtra,National Highway,Poor Road Condition,Rainy,Dawn/Dusk,Auto-Rickshaw,Fatal,3,0,21.3
+ACC00076,2019-09-18 15:00,Rajasthan,National Highway,Over Speeding,Foggy,Daylight,Car,Fatal,3,2,77.5
+ACC00077,2021-06-26 04:00,Bihar,State Highway,Vehicle Failure,Foggy,Daylight,Pedestrian,Fatal,5,2,34.0
+ACC00078,2023-12-20 01:00,Rajasthan,State Highway,Drunk Driving,Foggy,Night - Street Lit,Two-Wheeler,Fatal,5,2,19.3
+ACC00079,2020-01-21 04:00,Tamil Nadu,National Highway,Wrong Side Driving,Windy,Night - Street Lit,Car,Serious,0,0,89.7
+ACC00080,2021-06-06 01:00,Uttar Pradesh,Urban Road,Vehicle Failure,Foggy,Night - Street Lit,Car,Minor,1,0,29.3
+ACC00081,2021-08-15 02:00,Maharashtra,Expressway,Wrong Side Driving,Windy,Daylight,Auto-Rickshaw,Fatal,0,0,60.5
+ACC00082,2022-11-01 21:00,Bihar,Urban Road,Signal Jumping,Windy,Daylight,Truck,Fatal,3,1,9.2
+ACC00083,2022-02-03 05:00,Gujarat,State Highway,Poor Road Condition,Hazy,Daylight,Truck,Fatal,2,0,101.5
+ACC00084,2021-06-04 06:00,Bihar,State Highway,Poor Road Condition,Rainy,Night - Street Lit,Car,Fatal,5,1,19.8
+ACC00085,2018-12-11 09:00,Maharashtra,National Highway,Poor Road Condition,Clear,Night - Street Lit,Truck,Minor,2,1,21.0
+ACC00086,2023-11-17 10:00,Odisha,National Highway,Vehicle Failure,Windy,Daylight,Auto-Rickshaw,Minor,1,0,4.2
+ACC00087,2020-12-07 20:00,Karnataka,Rural Road,Drunk Driving,Hazy,Dawn/Dusk,Car,Fatal,1,1,60.6
+ACC00088,2019-03-07 00:00,Uttar Pradesh,State Highway,Poor Road Condition,Clear,Daylight,Truck,Serious,3,2,18.8
+ACC00089,2018-02-09 08:00,Gujarat,Rural Road,Wrong Side Driving,Windy,Daylight,Pedestrian,Minor,4,1,93.6
+ACC00090,2021-05-26 23:00,Rajasthan,State Highway,Signal Jumping,Clear,Dawn/Dusk,Pedestrian,Minor,2,0,91.9
+ACC00091,2019-05-20 16:00,West Bengal,National Highway,Drunk Driving,Hazy,Daylight,Two-Wheeler,Serious,1,1,107.4
+ACC00092,2022-07-01 13:00,Odisha,Urban Road,Poor Road Condition,Hazy,Night - Street Lit,Two-Wheeler,Fatal,1,0,48.4
+ACC00093,2021-01-27 01:00,Gujarat,Expressway,Wrong Side Driving,Foggy,Night - No Light,Bus,Minor,2,0,103.3
+ACC00094,2023-10-15 10:00,Gujarat,Rural Road,Poor Road Condition,Clear,Night - Street Lit,Two-Wheeler,Fatal,0,0,107.6
+ACC00095,2019-08-25 10:00,Rajasthan,National Highway,Vehicle Failure,Clear,Night - No Light,Car,Fatal,0,0,39.5
+ACC00096,2023-11-22 18:00,Uttar Pradesh,Rural Road,Distracted Driving,Rainy,Night - Street Lit,Car,Fatal,2,0,109.8
+ACC00097,2019-05-05 22:00,Madhya Pradesh,Expressway,Vehicle Failure,Foggy,Night - No Light,Car,Minor,1,0,57.4
+ACC00098,2021-05-21 07:00,Gujarat,Rural Road,Wrong Side Driving,Hazy,Daylight,Two-Wheeler,Fatal,3,0,48.5
+ACC00099,2020-04-16 00:00,Uttar Pradesh,Rural Road,Distracted Driving,Rainy,Night - Street Lit,Two-Wheeler,Minor,1,0,80.2
+ACC00100,2023-05-13 21:00,Madhya Pradesh,State Highway,Bad Weather,Foggy,Dawn/Dusk,Two-Wheeler,Fatal,1,1,77.4
+ACC00101,2018-08-16 11:00,Bihar,State Highway,Wrong Side Driving,Foggy,Night - No Light,Two-Wheeler,Serious,3,1,39.3
+ACC00102,2023-05-07 09:00,Maharashtra,State Highway,Poor Road Condition,Clear,Night - Street Lit,Car,Serious,3,1,113.1
+ACC00103,2021-06-17 18:00,Tamil Nadu,State Highway,Poor Road Condition,Rainy,Night - Street Lit,Bus,Serious,0,0,52.8
+ACC00104,2023-10-23 00:00,Tamil Nadu,Urban Road,Vehicle Failure,Clear,Night - No Light,Two-Wheeler,Fatal,2,1,0.4
+ACC00105,2022-09-21 06:00,Odisha,National Highway,Wrong Side Driving,Hazy,Daylight,Pedestrian,Fatal,1,0,59.9
+ACC00106,2023-04-14 03:00,Odisha,Expressway,Vehicle Failure,Clear,Night - Street Lit,Bus,Serious,0,0,28.6
+ACC00107,2023-05-25 04:00,Uttar Pradesh,Rural Road,Poor Road Condition,Windy,Dawn/Dusk,Pedestrian,Minor,3,0,105.5
+ACC00108,2021-08-27 03:00,West Bengal,Expressway,Over Speeding,Clear,Night - No Light,Auto-Rickshaw,Serious,3,0,80.4
+ACC00109,2021-11-22 05:00,Odisha,National Highway,Distracted Driving,Rainy,Night - Street Lit,Two-Wheeler,Serious,4,0,30.2
+ACC00110,2019-11-12 11:00,Bihar,State Highway,Wrong Side Driving,Foggy,Night - Street Lit,Pedestrian,Serious,0,0,98.9
+ACC00111,2020-03-18 12:00,Gujarat,Urban Road,Vehicle Failure,Windy,Night - Street Lit,Bus,Serious,3,0,73.2
+ACC00112,2021-01-06 12:00,Rajasthan,Expressway,Wrong Side Driving,Clear,Night - Street Lit,Two-Wheeler,Fatal,3,0,84.0
+ACC00113,2020-03-22 11:00,Karnataka,Urban Road,Wrong Side Driving,Windy,Night - No Light,Truck,Fatal,0,0,41.8
+ACC00114,2020-06-03 01:00,Rajasthan,Rural Road,Over Speeding,Foggy,Night - Street Lit,Bus,Serious,1,1,96.9
+ACC00115,2021-06-13 08:00,Karnataka,National Highway,Wrong Side Driving,Foggy,Daylight,Two-Wheeler,Fatal,5,3,65.9
+ACC00116,2020-04-11 16:00,West Bengal,Expressway,Wrong Side Driving,Clear,Daylight,Two-Wheeler,Fatal,0,0,108.1
+ACC00117,2021-01-23 13:00,West Bengal,National Highway,Wrong Side Driving,Clear,Night - No Light,Two-Wheeler,Fatal,0,0,37.0
+ACC00118,2023-12-15 06:00,Tamil Nadu,Rural Road,Drunk Driving,Windy,Daylight,Two-Wheeler,Minor,4,0,98.2
+ACC00119,2019-06-15 07:00,Bihar,Urban Road,Signal Jumping,Foggy,Dawn/Dusk,Truck,Minor,0,0,113.5
+ACC00120,2022-08-14 02:00,Karnataka,State Highway,Signal Jumping,Clear,Daylight,Car,Serious,4,2,91.0
+ACC00121,2019-12-01 16:00,Bihar,Rural Road,Over Speeding,Windy,Daylight,Pedestrian,Serious,5,1,94.1
+ACC00122,2018-05-04 10:00,Karnataka,Urban Road,Vehicle Failure,Hazy,Night - No Light,Auto-Rickshaw,Minor,1,0,20.6
+ACC00123,2023-03-11 21:00,Maharashtra,State Highway,Vehicle Failure,Hazy,Daylight,Car,Minor,0,0,54.4
+ACC00124,2019-05-03 15:00,Karnataka,National Highway,Distracted Driving,Clear,Night - No Light,Bus,Serious,3,1,109.1
+ACC00125,2021-11-26 16:00,Tamil Nadu,State Highway,Vehicle Failure,Foggy,Daylight,Pedestrian,Serious,1,1,68.8
+ACC00126,2020-06-16 05:00,Odisha,State Highway,Wrong Side Driving,Hazy,Night - Street Lit,Two-Wheeler,Serious,2,1,62.7
+ACC00127,2023-02-26 12:00,Odisha,Urban Road,Wrong Side Driving,Hazy,Dawn/Dusk,Truck,Minor,2,0,50.8
+ACC00128,2020-05-15 07:00,Maharashtra,National Highway,Bad Weather,Foggy,Dawn/Dusk,Bus,Minor,3,1,40.7
+ACC00129,2018-07-04 16:00,Madhya Pradesh,Expressway,Over Speeding,Clear,Dawn/Dusk,Bus,Serious,2,2,40.8
+ACC00130,2018-04-08 02:00,Bihar,State Highway,Over Speeding,Rainy,Night - No Light,Bus,Minor,1,0,27.7
+ACC00131,2020-02-02 06:00,Rajasthan,National Highway,Distracted Driving,Clear,Daylight,Two-Wheeler,Fatal,1,0,30.9
+ACC00132,2018-11-03 15:00,Madhya Pradesh,State Highway,Vehicle Failure,Foggy,Daylight,Truck,Minor,3,0,24.5
+ACC00133,2021-10-05 02:00,Karnataka,National Highway,Distracted Driving,Rainy,Dawn/Dusk,Auto-Rickshaw,Serious,4,1,54.1
+ACC00134,2023-01-20 21:00,Uttar Pradesh,National Highway,Vehicle Failure,Hazy,Daylight,Two-Wheeler,Fatal,0,0,81.9
+ACC00135,2023-12-02 12:00,Uttar Pradesh,National Highway,Wrong Side Driving,Hazy,Daylight,Car,Serious,1,0,41.5
+ACC00136,2021-02-09 05:00,Maharashtra,Expressway,Bad Weather,Clear,Night - No Light,Truck,Fatal,2,0,64.3
+ACC00137,2021-03-08 15:00,Maharashtra,Urban Road,Signal Jumping,Clear,Dawn/Dusk,Bus,Minor,1,1,90.8
+ACC00138,2021-09-26 10:00,Madhya Pradesh,State Highway,Bad Weather,Clear,Daylight,Truck,Minor,3,3,113.3
+ACC00139,2020-04-14 08:00,Gujarat,Rural Road,Distracted Driving,Clear,Night - Street Lit,Auto-Rickshaw,Serious,1,1,50.0
+ACC00140,2019-11-04 21:00,Madhya Pradesh,Rural Road,Vehicle Failure,Clear,Night - Street Lit,Auto-Rickshaw,Serious,4,1,100.3
+ACC00141,2019-03-26 00:00,West Bengal,Expressway,Poor Road Condition,Clear,Daylight,Bus,Serious,2,0,17.6
+ACC00142,2020-05-08 23:00,West Bengal,Expressway,Drunk Driving,Foggy,Night - Street Lit,Car,Minor,4,2,113.3
+ACC00143,2020-12-22 02:00,Bihar,Urban Road,Drunk Driving,Rainy,Daylight,Pedestrian,Fatal,1,1,23.7
+ACC00144,2023-07-14 10:00,Odisha,Rural Road,Distracted Driving,Windy,Night - Street Lit,Bus,Minor,3,1,62.4
+ACC00145,2023-08-26 03:00,Odisha,Rural Road,Signal Jumping,Foggy,Night - No Light,Two-Wheeler,Minor,2,1,15.4
+ACC00146,2021-10-07 18:00,Uttar Pradesh,National Highway,Signal Jumping,Foggy,Dawn/Dusk,Bus,Serious,0,0,15.6
+ACC00147,2022-09-26 04:00,Maharashtra,State Highway,Signal Jumping,Rainy,Night - Street Lit,Car,Fatal,4,0,62.0
+ACC00148,2022-10-09 21:00,Bihar,Rural Road,Signal Jumping,Rainy,Dawn/Dusk,Truck,Minor,0,0,19.3
+ACC00149,2023-09-03 18:00,Uttar Pradesh,Urban Road,Vehicle Failure,Hazy,Dawn/Dusk,Truck,Serious,1,0,102.3
+ACC00150,2022-01-21 07:00,Rajasthan,Rural Road,Over Speeding,Windy,Daylight,Auto-Rickshaw,Fatal,2,1,31.9
+ACC00151,2022-12-04 01:00,Gujarat,Expressway,Vehicle Failure,Rainy,Night - Street Lit,Car,Minor,6,2,115.1
+ACC00152,2018-03-10 03:00,Gujarat,National Highway,Bad Weather,Windy,Night - No Light,Pedestrian,Minor,1,0,96.6
+ACC00153,2023-09-19 21:00,Uttar Pradesh,Rural Road,Signal Jumping,Windy,Daylight,Car,Fatal,0,0,17.9
+ACC00154,2018-12-10 18:00,Bihar,Rural Road,Signal Jumping,Hazy,Night - Street Lit,Bus,Minor,2,1,78.0
+ACC00155,2022-06-07 23:00,Gujarat,Expressway,Over Speeding,Clear,Night - No Light,Truck,Serious,4,1,45.1
+ACC00156,2019-03-24 03:00,Rajasthan,Expressway,Wrong Side Driving,Rainy,Night - Street Lit,Pedestrian,Fatal,3,0,114.4
+ACC00157,2020-05-20 05:00,Rajasthan,Rural Road,Bad Weather,Clear,Night - Street Lit,Auto-Rickshaw,Serious,4,1,54.0
+ACC00158,2019-03-22 06:00,Maharashtra,Rural Road,Bad Weather,Rainy,Daylight,Truck,Serious,5,1,48.7
+ACC00159,2018-07-01 21:00,Uttar Pradesh,Rural Road,Drunk Driving,Hazy,Dawn/Dusk,Auto-Rickshaw,Fatal,3,0,22.6
+ACC00160,2020-12-17 15:00,Odisha,National Highway,Signal Jumping,Foggy,Dawn/Dusk,Car,Serious,2,1,53.4
+ACC00161,2019-01-16 14:00,Madhya Pradesh,Expressway,Over Speeding,Windy,Night - Street Lit,Two-Wheeler,Minor,0,0,33.2
+ACC00162,2022-07-24 23:00,Uttar Pradesh,Expressway,Signal Jumping,Clear,Daylight,Auto-Rickshaw,Minor,4,3,72.6
+ACC00163,2022-09-23 21:00,Bihar,Urban Road,Signal Jumping,Hazy,Dawn/Dusk,Car,Serious,1,0,40.4
+ACC00164,2022-12-24 02:00,Madhya Pradesh,Expressway,Wrong Side Driving,Clear,Night - Street Lit,Bus,Serious,0,0,58.0
+ACC00165,2019-04-24 19:00,Madhya Pradesh,Expressway,Wrong Side Driving,Windy,Night - Street Lit,Truck,Minor,2,1,67.0
+ACC00166,2021-06-06 12:00,Gujarat,Urban Road,Distracted Driving,Rainy,Daylight,Bus,Serious,2,2,45.7
+ACC00167,2019-03-04 22:00,Bihar,Expressway,Over Speeding,Hazy,Night - Street Lit,Car,Minor,2,0,45.7
+ACC00168,2023-06-14 01:00,Maharashtra,State Highway,Bad Weather,Foggy,Night - Street Lit,Truck,Fatal,2,1,21.9
+ACC00169,2018-03-05 18:00,Bihar,Expressway,Over Speeding,Rainy,Night - Street Lit,Truck,Serious,2,1,8.5
+ACC00170,2019-08-16 03:00,Madhya Pradesh,Rural Road,Distracted Driving,Foggy,Night - No Light,Two-Wheeler,Serious,4,0,8.2
+ACC00171,2019-05-03 08:00,Maharashtra,Urban Road,Distracted Driving,Foggy,Night - Street Lit,Car,Minor,0,0,58.4
+ACC00172,2020-08-12 10:00,Rajasthan,Rural Road,Drunk Driving,Foggy,Dawn/Dusk,Two-Wheeler,Minor,0,0,4.7
+ACC00173,2023-06-22 08:00,Tamil Nadu,State Highway,Wrong Side Driving,Foggy,Daylight,Bus,Minor,1,0,77.9
+ACC00174,2022-07-09 17:00,Karnataka,Expressway,Signal Jumping,Clear,Daylight,Bus,Serious,0,0,57.1
+ACC00175,2022-01-09 03:00,Bihar,Rural Road,Wrong Side Driving,Windy,Daylight,Auto-Rickshaw,Minor,1,1,60.6
+ACC00176,2022-06-01 21:00,Uttar Pradesh,State Highway,Distracted Driving,Clear,Dawn/Dusk,Bus,Minor,0,0,83.2
+ACC00177,2018-08-04 18:00,Tamil Nadu,National Highway,Poor Road Condition,Hazy,Daylight,Two-Wheeler,Serious,0,0,102.5
+ACC00178,2019-04-12 04:00,Bihar,Rural Road,Vehicle Failure,Foggy,Dawn/Dusk,Bus,Fatal,3,0,66.4
+ACC00179,2020-03-10 20:00,Karnataka,Rural Road,Distracted Driving,Clear,Dawn/Dusk,Bus,Serious,1,0,19.1
+ACC00180,2019-05-10 07:00,Uttar Pradesh,National Highway,Signal Jumping,Foggy,Night - No Light,Bus,Fatal,4,2,63.7
+ACC00181,2020-10-08 15:00,Gujarat,Rural Road,Over Speeding,Hazy,Night - Street Lit,Auto-Rickshaw,Minor,1,0,119.8
+ACC00182,2021-10-14 06:00,Karnataka,State Highway,Signal Jumping,Foggy,Night - No Light,Auto-Rickshaw,Fatal,2,1,39.8
+ACC00183,2021-03-27 09:00,West Bengal,National Highway,Distracted Driving,Foggy,Dawn/Dusk,Truck,Minor,2,1,100.6
+ACC00184,2022-04-23 22:00,West Bengal,State Highway,Drunk Driving,Foggy,Night - Street Lit,Two-Wheeler,Minor,1,0,55.4
+ACC00185,2022-11-05 22:00,West Bengal,National Highway,Poor Road Condition,Rainy,Night - Street Lit,Bus,Fatal,1,0,65.6
+ACC00186,2023-01-05 21:00,Rajasthan,Expressway,Bad Weather,Windy,Dawn/Dusk,Pedestrian,Minor,0,0,62.6
+ACC00187,2023-12-18 23:00,Gujarat,Rural Road,Wrong Side Driving,Rainy,Dawn/Dusk,Car,Fatal,4,2,52.1
+ACC00188,2019-11-18 11:00,West Bengal,Rural Road,Vehicle Failure,Rainy,Daylight,Two-Wheeler,Minor,0,0,112.7
+ACC00189,2023-09-24 14:00,Karnataka,Urban Road,Poor Road Condition,Foggy,Dawn/Dusk,Auto-Rickshaw,Fatal,1,0,61.4
+ACC00190,2022-02-09 12:00,Odisha,Expressway,Wrong Side Driving,Hazy,Dawn/Dusk,Truck,Serious,0,0,109.2
+ACC00191,2020-08-23 03:00,Tamil Nadu,Rural Road,Over Speeding,Windy,Night - Street Lit,Bus,Fatal,1,0,1.2
+ACC00192,2019-12-14 23:00,Maharashtra,Expressway,Poor Road Condition,Clear,Dawn/Dusk,Two-Wheeler,Minor,3,0,12.5
+ACC00193,2019-06-26 04:00,Bihar,State Highway,Distracted Driving,Clear,Daylight,Two-Wheeler,Minor,2,1,61.1
+ACC00194,2023-07-17 13:00,Rajasthan,Expressway,Drunk Driving,Windy,Night - Street Lit,Two-Wheeler,Serious,1,0,96.7
+ACC00195,2021-11-28 13:00,Uttar Pradesh,Rural Road,Bad Weather,Windy,Night - No Light,Auto-Rickshaw,Fatal,6,2,41.0
+ACC00196,2019-12-21 11:00,Karnataka,Expressway,Poor Road Condition,Hazy,Dawn/Dusk,Car,Fatal,1,0,12.6
+ACC00197,2022-04-23 20:00,Uttar Pradesh,Rural Road,Poor Road Condition,Hazy,Night - Street Lit,Auto-Rickshaw,Fatal,0,0,46.4
+ACC00198,2022-11-17 13:00,Maharashtra,Rural Road,Drunk Driving,Hazy,Night - No Light,Bus,Minor,5,3,95.5
+ACC00199,2019-05-07 07:00,Gujarat,State Highway,Drunk Driving,Windy,Night - No Light,Truck,Serious,0,0,79.5
+ACC00200,2019-05-28 15:00,Rajasthan,Urban Road,Poor Road Condition,Hazy,Daylight,Car,Serious,1,1,62.5
+ACC00201,2018-06-22 04:00,Gujarat,Urban Road,Over Speeding,Clear,Dawn/Dusk,Two-Wheeler,Serious,2,1,33.3
+ACC00202,2023-10-01 02:00,West Bengal,Expressway,Over Speeding,Hazy,Daylight,Bus,Minor,1,0,23.9
+ACC00203,2018-01-23 06:00,Rajasthan,National Highway,Wrong Side Driving,Clear,Night - Street Lit,Two-Wheeler,Minor,4,3,81.0
+ACC00204,2020-04-17 16:00,Uttar Pradesh,National Highway,Bad Weather,Foggy,Night - No Light,Truck,Serious,1,0,51.0
+ACC00205,2019-04-22 15:00,Rajasthan,Urban Road,Vehicle Failure,Foggy,Daylight,Pedestrian,Minor,4,1,1.0
+ACC00206,2021-05-26 23:00,West Bengal,National Highway,Drunk Driving,Hazy,Dawn/Dusk,Car,Minor,6,2,85.7
+ACC00207,2023-04-06 21:00,Karnataka,State Highway,Bad Weather,Windy,Daylight,Auto-Rickshaw,Minor,2,0,16.4
+ACC00208,2018-04-15 04:00,Tamil Nadu,State Highway,Vehicle Failure,Clear,Night - No Light,Truck,Minor,2,0,44.4
+ACC00209,2018-05-04 11:00,Odisha,State Highway,Bad Weather,Rainy,Daylight,Truck,Serious,2,0,76.3
+ACC00210,2023-03-25 10:00,Gujarat,Expressway,Poor Road Condition,Clear,Dawn/Dusk,Car,Fatal,1,0,4.0
+ACC00211,2022-09-22 19:00,Maharashtra,State Highway,Bad Weather,Rainy,Daylight,Auto-Rickshaw,Minor,2,1,109.3
+ACC00212,2019-11-11 23:00,Tamil Nadu,Rural Road,Wrong Side Driving,Windy,Dawn/Dusk,Two-Wheeler,Fatal,3,0,29.6
+ACC00213,2022-11-22 00:00,Maharashtra,National Highway,Distracted Driving,Windy,Dawn/Dusk,Two-Wheeler,Fatal,0,0,17.0
+ACC00214,2020-09-22 07:00,Karnataka,State Highway,Signal Jumping,Windy,Daylight,Car,Fatal,3,3,5.6
+ACC00215,2023-02-27 01:00,Tamil Nadu,Urban Road,Vehicle Failure,Windy,Night - No Light,Auto-Rickshaw,Minor,3,0,79.1
+ACC00216,2018-01-03 10:00,Madhya Pradesh,State Highway,Over Speeding,Hazy,Night - No Light,Bus,Fatal,1,0,14.6
+ACC00217,2019-06-18 03:00,Madhya Pradesh,Expressway,Over Speeding,Hazy,Daylight,Truck,Minor,5,3,50.7
+ACC00218,2019-09-24 19:00,Maharashtra,Expressway,Over Speeding,Clear,Night - Street Lit,Auto-Rickshaw,Fatal,1,0,73.7
+ACC00219,2022-07-22 06:00,Odisha,Urban Road,Over Speeding,Foggy,Dawn/Dusk,Two-Wheeler,Serious,1,0,29.9
+ACC00220,2018-02-10 06:00,Odisha,Rural Road,Distracted Driving,Rainy,Daylight,Auto-Rickshaw,Minor,0,0,12.3
+ACC00221,2020-07-19 13:00,Rajasthan,Rural Road,Over Speeding,Hazy,Dawn/Dusk,Bus,Minor,2,0,56.6
+ACC00222,2022-02-22 20:00,Uttar Pradesh,Expressway,Over Speeding,Clear,Night - Street Lit,Car,Serious,1,0,98.2
+ACC00223,2022-01-12 19:00,West Bengal,Urban Road,Over Speeding,Clear,Dawn/Dusk,Bus,Serious,4,0,23.4
+ACC00224,2018-09-11 17:00,Tamil Nadu,National Highway,Bad Weather,Windy,Dawn/Dusk,Auto-Rickshaw,Minor,1,0,89.8
+ACC00225,2018-02-13 12:00,Bihar,Rural Road,Bad Weather,Hazy,Night - No Light,Bus,Minor,3,0,119.2
+ACC00226,2019-01-23 19:00,Maharashtra,Urban Road,Poor Road Condition,Foggy,Daylight,Pedestrian,Minor,5,2,10.5
+ACC00227,2020-10-19 18:00,Karnataka,State Highway,Over Speeding,Clear,Dawn/Dusk,Auto-Rickshaw,Minor,2,0,19.2
+ACC00228,2023-10-02 01:00,Gujarat,Urban Road,Wrong Side Driving,Foggy,Night - No Light,Pedestrian,Minor,1,1,26.6
+ACC00229,2021-04-07 09:00,Maharashtra,National Highway,Vehicle Failure,Hazy,Daylight,Auto-Rickshaw,Serious,3,2,81.7
+ACC00230,2018-05-06 02:00,Rajasthan,State Highway,Over Speeding,Hazy,Night - No Light,Truck,Fatal,1,1,99.9
+ACC00231,2018-06-07 10:00,Maharashtra,Rural Road,Vehicle Failure,Windy,Daylight,Auto-Rickshaw,Serious,4,0,20.2
+ACC00232,2019-11-16 12:00,Bihar,Expressway,Bad Weather,Rainy,Dawn/Dusk,Truck,Minor,0,0,38.4
+ACC00233,2019-03-16 11:00,Gujarat,Urban Road,Vehicle Failure,Clear,Night - Street Lit,Car,Minor,0,0,113.7
+ACC00234,2018-05-19 08:00,Gujarat,Urban Road,Over Speeding,Windy,Daylight,Car,Serious,0,0,1.0
+ACC00235,2022-09-25 09:00,Tamil Nadu,State Highway,Poor Road Condition,Clear,Night - Street Lit,Auto-Rickshaw,Minor,5,2,107.4
+ACC00236,2019-05-22 04:00,Tamil Nadu,Rural Road,Vehicle Failure,Clear,Night - Street Lit,Car,Minor,1,1,103.3
+ACC00237,2023-10-23 03:00,Bihar,Rural Road,Signal Jumping,Clear,Daylight,Bus,Minor,2,0,1.7
+ACC00238,2021-05-21 08:00,Maharashtra,National Highway,Over Speeding,Rainy,Dawn/Dusk,Bus,Fatal,4,0,85.3
+ACC00239,2018-08-06 03:00,Karnataka,Urban Road,Over Speeding,Foggy,Night - Street Lit,Pedestrian,Fatal,4,1,75.5
+ACC00240,2019-09-15 03:00,Rajasthan,Urban Road,Poor Road Condition,Hazy,Daylight,Bus,Fatal,2,1,33.4
+ACC00241,2022-12-11 07:00,Madhya Pradesh,Urban Road,Bad Weather,Foggy,Night - Street Lit,Car,Fatal,0,0,3.3
+ACC00242,2023-06-21 05:00,Tamil Nadu,Rural Road,Distracted Driving,Rainy,Daylight,Bus,Fatal,2,0,47.8
+ACC00243,2019-12-17 13:00,Odisha,Expressway,Bad Weather,Hazy,Night - Street Lit,Pedestrian,Minor,2,2,50.5
+ACC00244,2023-06-27 06:00,Bihar,Rural Road,Drunk Driving,Windy,Dawn/Dusk,Auto-Rickshaw,Serious,1,1,99.5
+ACC00245,2023-06-02 03:00,Maharashtra,Expressway,Wrong Side Driving,Rainy,Night - No Light,Truck,Minor,2,0,116.2
+ACC00246,2021-02-28 01:00,Uttar Pradesh,Urban Road,Bad Weather,Rainy,Night - No Light,Car,Serious,3,1,33.4
+ACC00247,2020-05-11 19:00,Maharashtra,National Highway,Bad Weather,Windy,Night - Street Lit,Pedestrian,Serious,3,0,63.4
+ACC00248,2020-05-13 01:00,Bihar,National Highway,Bad Weather,Hazy,Dawn/Dusk,Two-Wheeler,Serious,1,0,6.0
+ACC00249,2020-07-25 12:00,Maharashtra,Expressway,Wrong Side Driving,Foggy,Night - Street Lit,Car,Serious,3,2,119.0
+ACC00250,2019-11-17 08:00,Uttar Pradesh,Expressway,Vehicle Failure,Rainy,Dawn/Dusk,Auto-Rickshaw,Minor,3,0,119.4
+ACC00251,2020-11-17 19:00,West Bengal,Expressway,Poor Road Condition,Hazy,Daylight,Truck,Minor,2,0,102.9
+ACC00252,2021-08-11 21:00,Bihar,Expressway,Distracted Driving,Hazy,Dawn/Dusk,Car,Serious,2,2,0.9
+ACC00253,2020-12-22 20:00,Maharashtra,Urban Road,Over Speeding,Clear,Daylight,Bus,Fatal,4,2,73.0
+ACC00254,2021-09-08 02:00,Bihar,Rural Road,Vehicle Failure,Foggy,Night - No Light,Pedestrian,Minor,1,0,107.7
+ACC00255,2019-08-08 00:00,Odisha,Urban Road,Bad Weather,Windy,Daylight,Truck,Minor,1,0,67.5
+ACC00256,2020-06-01 13:00,Maharashtra,Urban Road,Drunk Driving,Clear,Night - Street Lit,Pedestrian,Fatal,1,0,1.3
+ACC00257,2023-07-02 22:00,Maharashtra,Rural Road,Over Speeding,Windy,Daylight,Auto-Rickshaw,Serious,1,0,8.9
+ACC00258,2021-11-01 15:00,Madhya Pradesh,State Highway,Bad Weather,Rainy,Dawn/Dusk,Pedestrian,Serious,0,0,13.0
+ACC00259,2022-01-02 19:00,Maharashtra,Urban Road,Signal Jumping,Clear,Night - No Light,Auto-Rickshaw,Minor,2,0,68.1
+ACC00260,2020-10-04 01:00,Karnataka,Rural Road,Poor Road Condition,Hazy,Daylight,Auto-Rickshaw,Serious,1,0,107.0
+ACC00261,2020-09-24 11:00,Uttar Pradesh,Rural Road,Over Speeding,Windy,Night - Street Lit,Auto-Rickshaw,Minor,1,0,104.0
+ACC00262,2021-09-12 13:00,Madhya Pradesh,State Highway,Bad Weather,Rainy,Night - No Light,Car,Fatal,3,2,36.9
+ACC00263,2019-08-16 05:00,Uttar Pradesh,Urban Road,Distracted Driving,Windy,Night - No Light,Pedestrian,Serious,1,1,4.5
+ACC00264,2023-09-15 03:00,Gujarat,Urban Road,Poor Road Condition,Clear,Night - Street Lit,Pedestrian,Serious,2,2,103.5
+ACC00265,2020-04-24 06:00,Tamil Nadu,National Highway,Vehicle Failure,Rainy,Daylight,Car,Minor,4,3,58.5
+ACC00266,2023-01-27 02:00,Maharashtra,Urban Road,Wrong Side Driving,Foggy,Dawn/Dusk,Bus,Serious,1,0,86.0
+ACC00267,2022-02-18 09:00,Odisha,Rural Road,Signal Jumping,Hazy,Night - No Light,Auto-Rickshaw,Minor,2,0,111.4
+ACC00268,2020-07-28 16:00,West Bengal,Rural Road,Bad Weather,Windy,Night - Street Lit,Car,Minor,2,0,118.0
+ACC00269,2021-08-28 21:00,Uttar Pradesh,State Highway,Drunk Driving,Hazy,Daylight,Bus,Fatal,2,0,14.4
+ACC00270,2023-05-14 16:00,Maharashtra,National Highway,Signal Jumping,Windy,Dawn/Dusk,Pedestrian,Minor,2,1,32.0
+ACC00271,2018-07-16 11:00,Uttar Pradesh,Expressway,Signal Jumping,Windy,Dawn/Dusk,Pedestrian,Fatal,2,0,118.1
+ACC00272,2019-08-19 08:00,Uttar Pradesh,National Highway,Over Speeding,Foggy,Night - Street Lit,Two-Wheeler,Fatal,4,3,70.5
+ACC00273,2023-05-04 07:00,Rajasthan,Expressway,Signal Jumping,Hazy,Night - Street Lit,Two-Wheeler,Serious,1,0,101.4
+ACC00274,2018-05-25 16:00,Bihar,Urban Road,Wrong Side Driving,Rainy,Night - Street Lit,Pedestrian,Minor,0,0,69.5
+ACC00275,2022-03-19 00:00,Rajasthan,Urban Road,Over Speeding,Windy,Night - No Light,Auto-Rickshaw,Serious,3,0,105.2
+ACC00276,2021-12-16 05:00,Bihar,National Highway,Vehicle Failure,Clear,Dawn/Dusk,Two-Wheeler,Minor,1,0,19.6
+ACC00277,2022-08-22 13:00,Odisha,State Highway,Drunk Driving,Rainy,Dawn/Dusk,Bus,Minor,4,1,88.0
+ACC00278,2020-01-23 14:00,Gujarat,Expressway,Signal Jumping,Windy,Night - Street Lit,Auto-Rickshaw,Serious,0,0,24.4
+ACC00279,2023-01-17 00:00,Bihar,State Highway,Vehicle Failure,Foggy,Daylight,Pedestrian,Minor,2,0,6.2
+ACC00280,2023-11-08 15:00,Rajasthan,National Highway,Wrong Side Driving,Hazy,Dawn/Dusk,Bus,Minor,4,3,109.8
+ACC00281,2018-12-05 09:00,Bihar,Urban Road,Over Speeding,Hazy,Night - Street Lit,Truck,Minor,1,1,42.3
+ACC00282,2021-07-02 15:00,Bihar,National Highway,Poor Road Condition,Hazy,Night - No Light,Truck,Minor,1,1,117.7
+ACC00283,2019-07-17 14:00,Rajasthan,Expressway,Drunk Driving,Hazy,Dawn/Dusk,Two-Wheeler,Serious,0,0,98.6
+ACC00284,2020-05-27 21:00,Maharashtra,Rural Road,Distracted Driving,Clear,Night - Street Lit,Two-Wheeler,Fatal,1,0,13.4
+ACC00285,2018-01-25 02:00,Gujarat,Expressway,Signal Jumping,Rainy,Night - No Light,Car,Minor,2,0,27.6
+ACC00286,2021-02-24 21:00,Odisha,Expressway,Signal Jumping,Foggy,Dawn/Dusk,Two-Wheeler,Serious,5,2,45.9
+ACC00287,2019-02-09 03:00,West Bengal,Urban Road,Signal Jumping,Rainy,Daylight,Truck,Minor,2,1,49.7
+ACC00288,2020-02-01 05:00,Tamil Nadu,Urban Road,Wrong Side Driving,Rainy,Night - Street Lit,Auto-Rickshaw,Serious,0,0,56.2
+ACC00289,2019-01-16 20:00,Karnataka,Expressway,Drunk Driving,Foggy,Dawn/Dusk,Two-Wheeler,Minor,1,1,8.6
+ACC00290,2019-04-27 10:00,Bihar,Expressway,Over Speeding,Foggy,Night - No Light,Two-Wheeler,Fatal,0,0,61.9
+ACC00291,2019-01-03 04:00,Tamil Nadu,State Highway,Distracted Driving,Windy,Daylight,Pedestrian,Fatal,5,2,93.9
+ACC00292,2020-11-07 17:00,Madhya Pradesh,State Highway,Wrong Side Driving,Clear,Dawn/Dusk,Two-Wheeler,Serious,3,3,3.6
+ACC00293,2020-12-05 04:00,Tamil Nadu,National Highway,Poor Road Condition,Rainy,Daylight,Two-Wheeler,Serious,1,1,52.3
+ACC00294,2021-09-10 07:00,Gujarat,Rural Road,Vehicle Failure,Rainy,Night - No Light,Two-Wheeler,Serious,1,0,103.9
+ACC00295,2019-07-19 10:00,Bihar,State Highway,Bad Weather,Rainy,Daylight,Auto-Rickshaw,Fatal,4,2,75.0
+ACC00296,2019-02-14 21:00,Maharashtra,State Highway,Drunk Driving,Rainy,Night - Street Lit,Pedestrian,Minor,1,0,23.6
+ACC00297,2023-05-25 05:00,Maharashtra,Urban Road,Wrong Side Driving,Rainy,Daylight,Pedestrian,Fatal,3,1,21.7
+ACC00298,2022-01-27 18:00,Bihar,Expressway,Bad Weather,Hazy,Night - Street Lit,Auto-Rickshaw,Serious,0,0,3.6
+ACC00299,2018-03-04 02:00,Gujarat,National Highway,Over Speeding,Clear,Daylight,Two-Wheeler,Serious,3,0,20.6
+ACC00300,2019-12-12 09:00,Tamil Nadu,Expressway,Over Speeding,Hazy,Dawn/Dusk,Two-Wheeler,Fatal,0,0,10.5
+ACC00301,2023-02-04 14:00,Bihar,National Highway,Distracted Driving,Windy,Night - No Light,Two-Wheeler,Minor,2,2,77.2
+ACC00302,2018-07-17 23:00,Gujarat,National Highway,Distracted Driving,Foggy,Daylight,Bus,Fatal,1,0,20.0
+ACC00303,2023-04-24 06:00,Odisha,Rural Road,Distracted Driving,Hazy,Night - Street Lit,Car,Serious,0,0,56.2
+ACC00304,2020-08-09 12:00,Madhya Pradesh,State Highway,Poor Road Condition,Foggy,Dawn/Dusk,Truck,Serious,5,2,98.3
+ACC00305,2021-04-16 19:00,Rajasthan,Expressway,Over Speeding,Foggy,Daylight,Truck,Minor,1,1,41.3
+ACC00306,2019-12-21 15:00,Odisha,Rural Road,Bad Weather,Windy,Daylight,Pedestrian,Fatal,3,1,101.9
+ACC00307,2020-07-01 08:00,Rajasthan,Rural Road,Poor Road Condition,Hazy,Night - No Light,Truck,Minor,0,0,86.8
+ACC00308,2019-07-22 00:00,Tamil Nadu,Expressway,Wrong Side Driving,Windy,Dawn/Dusk,Auto-Rickshaw,Serious,2,0,76.7
+ACC00309,2020-12-07 17:00,Rajasthan,Rural Road,Over Speeding,Clear,Daylight,Truck,Serious,1,1,36.7
+ACC00310,2022-06-12 05:00,Karnataka,National Highway,Distracted Driving,Clear,Dawn/Dusk,Car,Fatal,2,1,79.0
+ACC00311,2020-08-16 07:00,Tamil Nadu,Urban Road,Vehicle Failure,Hazy,Night - No Light,Two-Wheeler,Fatal,3,1,9.1
+ACC00312,2020-01-03 18:00,Rajasthan,Expressway,Poor Road Condition,Rainy,Night - No Light,Two-Wheeler,Fatal,2,0,68.4
+ACC00313,2023-05-10 23:00,Odisha,Expressway,Poor Road Condition,Clear,Night - Street Lit,Pedestrian,Fatal,2,1,16.9
+ACC00314,2022-03-05 03:00,Maharashtra,Rural Road,Distracted Driving,Hazy,Night - No Light,Two-Wheeler,Fatal,1,0,88.7
+ACC00315,2019-07-13 22:00,Tamil Nadu,Rural Road,Vehicle Failure,Hazy,Night - No Light,Car,Serious,3,1,63.0
+ACC00316,2022-07-10 11:00,Karnataka,State Highway,Drunk Driving,Hazy,Dawn/Dusk,Bus,Fatal,3,3,2.7
+ACC00317,2021-01-23 11:00,Madhya Pradesh,Urban Road,Bad Weather,Clear,Night - Street Lit,Pedestrian,Minor,1,0,30.7
+ACC00318,2021-05-08 10:00,Rajasthan,Expressway,Poor Road Condition,Rainy,Night - Street Lit,Truck,Fatal,1,0,73.5
+ACC00319,2023-01-09 23:00,Maharashtra,Urban Road,Distracted Driving,Windy,Daylight,Car,Minor,3,2,94.1
+ACC00320,2021-09-07 10:00,Odisha,State Highway,Vehicle Failure,Hazy,Daylight,Two-Wheeler,Minor,1,0,22.2
+ACC00321,2021-01-18 06:00,Maharashtra,State Highway,Poor Road Condition,Hazy,Night - No Light,Car,Serious,0,0,79.8
+ACC00322,2018-12-16 22:00,Bihar,Expressway,Bad Weather,Hazy,Daylight,Truck,Minor,2,0,114.2
+ACC00323,2023-12-24 15:00,Madhya Pradesh,State Highway,Distracted Driving,Clear,Daylight,Car,Minor,4,3,56.6
+ACC00324,2020-07-11 12:00,Uttar Pradesh,Urban Road,Distracted Driving,Foggy,Dawn/Dusk,Truck,Serious,1,0,43.1
+ACC00325,2018-05-02 10:00,Bihar,Rural Road,Vehicle Failure,Clear,Night - No Light,Car,Fatal,2,0,114.5
+ACC00326,2020-08-16 10:00,Karnataka,State Highway,Drunk Driving,Clear,Daylight,Bus,Serious,1,0,86.7
+ACC00327,2023-08-27 15:00,Gujarat,State Highway,Poor Road Condition,Hazy,Night - Street Lit,Auto-Rickshaw,Serious,1,0,42.9
+ACC00328,2022-04-08 21:00,Bihar,Rural Road,Poor Road Condition,Windy,Night - Street Lit,Truck,Fatal,1,1,63.3
+ACC00329,2018-05-07 18:00,West Bengal,Urban Road,Vehicle Failure,Clear,Night - No Light,Bus,Serious,3,1,86.5
+ACC00330,2020-11-17 04:00,Karnataka,Rural Road,Wrong Side Driving,Clear,Dawn/Dusk,Pedestrian,Serious,2,2,11.7
+ACC00331,2018-12-09 11:00,Gujarat,Rural Road,Signal Jumping,Clear,Night - Street Lit,Bus,Fatal,4,1,83.3
+ACC00332,2019-10-28 21:00,Bihar,Rural Road,Signal Jumping,Clear,Daylight,Car,Minor,6,3,48.6
+ACC00333,2020-02-26 01:00,Gujarat,State Highway,Wrong Side Driving,Rainy,Dawn/Dusk,Truck,Fatal,1,1,118.8
+ACC00334,2020-09-20 18:00,Gujarat,State Highway,Signal Jumping,Rainy,Night - No Light,Two-Wheeler,Serious,0,0,70.3
+ACC00335,2022-01-19 11:00,Gujarat,Expressway,Distracted Driving,Rainy,Dawn/Dusk,Auto-Rickshaw,Minor,2,1,37.2
+ACC00336,2018-09-20 19:00,Bihar,National Highway,Signal Jumping,Windy,Dawn/Dusk,Auto-Rickshaw,Fatal,3,0,52.9
+ACC00337,2022-09-01 15:00,Rajasthan,Expressway,Poor Road Condition,Foggy,Night - No Light,Truck,Serious,3,1,47.5
+ACC00338,2019-11-20 18:00,West Bengal,State Highway,Signal Jumping,Rainy,Night - No Light,Car,Serious,0,0,114.6
+ACC00339,2020-01-05 06:00,Karnataka,Urban Road,Wrong Side Driving,Hazy,Night - No Light,Auto-Rickshaw,Serious,1,1,111.5
+ACC00340,2019-04-13 00:00,Odisha,State Highway,Over Speeding,Windy,Dawn/Dusk,Car,Fatal,2,1,75.6
+ACC00341,2019-02-23 06:00,Gujarat,Rural Road,Drunk Driving,Clear,Dawn/Dusk,Two-Wheeler,Minor,1,0,82.8
+ACC00342,2021-02-12 09:00,Bihar,Urban Road,Drunk Driving,Windy,Night - Street Lit,Two-Wheeler,Fatal,3,2,97.3
+ACC00343,2022-05-28 12:00,Uttar Pradesh,National Highway,Distracted Driving,Windy,Night - No Light,Two-Wheeler,Serious,3,0,14.0
+ACC00344,2020-03-13 02:00,West Bengal,National Highway,Distracted Driving,Clear,Dawn/Dusk,Bus,Serious,2,0,100.9
+ACC00345,2023-01-20 15:00,Maharashtra,Urban Road,Poor Road Condition,Rainy,Night - Street Lit,Bus,Fatal,1,1,63.7
+ACC00346,2023-08-03 14:00,Maharashtra,State Highway,Signal Jumping,Windy,Night - No Light,Bus,Fatal,0,0,75.1
+ACC00347,2018-07-13 20:00,Karnataka,State Highway,Drunk Driving,Clear,Night - No Light,Bus,Fatal,4,2,78.2
+ACC00348,2021-01-08 04:00,Rajasthan,State Highway,Poor Road Condition,Foggy,Night - No Light,Car,Fatal,3,0,30.9
+ACC00349,2019-05-18 10:00,Odisha,State Highway,Distracted Driving,Foggy,Daylight,Car,Fatal,3,1,75.7
+ACC00350,2021-01-10 20:00,Karnataka,National Highway,Bad Weather,Rainy,Daylight,Auto-Rickshaw,Minor,2,0,19.8
+ACC00351,2021-02-15 11:00,West Bengal,Expressway,Signal Jumping,Windy,Dawn/Dusk,Truck,Minor,4,0,114.8
+ACC00352,2021-03-01 11:00,Tamil Nadu,Rural Road,Distracted Driving,Hazy,Dawn/Dusk,Pedestrian,Minor,3,2,87.2
+ACC00353,2023-08-10 00:00,Madhya Pradesh,Rural Road,Over Speeding,Clear,Daylight,Pedestrian,Minor,0,0,100.8
+ACC00354,2021-02-16 16:00,West Bengal,State Highway,Over Speeding,Clear,Dawn/Dusk,Two-Wheeler,Serious,0,0,28.1
+ACC00355,2019-06-03 16:00,Karnataka,Expressway,Poor Road Condition,Clear,Dawn/Dusk,Truck,Serious,2,0,105.0
+ACC00356,2020-06-06 21:00,Odisha,Rural Road,Poor Road Condition,Rainy,Night - No Light,Auto-Rickshaw,Serious,4,1,114.5
+ACC00357,2022-07-14 05:00,Karnataka,National Highway,Signal Jumping,Clear,Night - Street Lit,Car,Fatal,3,0,99.1
+ACC00358,2021-01-06 04:00,Karnataka,Rural Road,Bad Weather,Hazy,Dawn/Dusk,Car,Fatal,1,0,43.5
+ACC00359,2020-09-02 16:00,Karnataka,Expressway,Poor Road Condition,Foggy,Daylight,Truck,Minor,1,1,52.1
+ACC00360,2021-05-11 21:00,Maharashtra,Expressway,Bad Weather,Clear,Daylight,Two-Wheeler,Minor,4,1,54.6
+ACC00361,2023-09-18 06:00,Tamil Nadu,Expressway,Signal Jumping,Windy,Daylight,Car,Serious,3,0,17.3
+ACC00362,2023-12-09 05:00,Rajasthan,National Highway,Over Speeding,Hazy,Dawn/Dusk,Bus,Serious,1,0,57.8
+ACC00363,2023-07-27 09:00,Karnataka,Urban Road,Distracted Driving,Foggy,Daylight,Car,Serious,2,1,97.0
+ACC00364,2023-11-05 07:00,Karnataka,Urban Road,Over Speeding,Hazy,Night - No Light,Two-Wheeler,Serious,2,2,91.3
+ACC00365,2023-04-01 08:00,Odisha,Rural Road,Drunk Driving,Rainy,Night - Street Lit,Truck,Minor,1,1,27.6
+ACC00366,2019-10-25 10:00,Karnataka,Urban Road,Poor Road Condition,Clear,Dawn/Dusk,Auto-Rickshaw,Fatal,4,1,39.2
+ACC00367,2023-09-12 21:00,Karnataka,State Highway,Drunk Driving,Hazy,Dawn/Dusk,Car,Minor,1,0,23.3
+ACC00368,2019-02-18 00:00,Maharashtra,Rural Road,Vehicle Failure,Windy,Night - No Light,Auto-Rickshaw,Minor,4,0,91.9
+ACC00369,2019-03-10 10:00,West Bengal,Expressway,Over Speeding,Windy,Daylight,Bus,Minor,3,1,111.4
+ACC00370,2023-06-11 19:00,Maharashtra,Rural Road,Distracted Driving,Foggy,Night - Street Lit,Auto-Rickshaw,Minor,2,0,28.5
+ACC00371,2021-09-14 15:00,Uttar Pradesh,National Highway,Drunk Driving,Clear,Dawn/Dusk,Pedestrian,Fatal,0,0,65.7
+ACC00372,2021-08-26 10:00,West Bengal,Urban Road,Over Speeding,Rainy,Night - No Light,Truck,Fatal,6,3,59.3
+ACC00373,2023-05-16 11:00,Tamil Nadu,Urban Road,Vehicle Failure,Clear,Dawn/Dusk,Pedestrian,Serious,3,0,86.5
+ACC00374,2020-06-20 22:00,Rajasthan,National Highway,Over Speeding,Foggy,Dawn/Dusk,Truck,Minor,3,3,55.5
+ACC00375,2021-12-11 01:00,Gujarat,Rural Road,Wrong Side Driving,Foggy,Night - Street Lit,Car,Serious,1,1,10.6
+ACC00376,2020-02-07 20:00,Rajasthan,Urban Road,Over Speeding,Clear,Dawn/Dusk,Two-Wheeler,Minor,5,2,36.3
+ACC00377,2021-06-05 02:00,Maharashtra,State Highway,Signal Jumping,Clear,Night - No Light,Pedestrian,Fatal,0,0,114.7
+ACC00378,2022-12-01 11:00,Maharashtra,Rural Road,Drunk Driving,Hazy,Daylight,Pedestrian,Fatal,5,2,60.1
+ACC00379,2022-03-18 09:00,Uttar Pradesh,Expressway,Bad Weather,Clear,Night - Street Lit,Pedestrian,Minor,3,2,29.4
+ACC00380,2018-05-27 22:00,Madhya Pradesh,National Highway,Wrong Side Driving,Windy,Dawn/Dusk,Auto-Rickshaw,Minor,0,0,57.0
+ACC00381,2019-01-14 07:00,Tamil Nadu,Urban Road,Bad Weather,Windy,Daylight,Two-Wheeler,Fatal,2,0,23.3
+ACC00382,2022-03-04 05:00,Madhya Pradesh,Urban Road,Poor Road Condition,Clear,Night - No Light,Auto-Rickshaw,Minor,0,0,43.6
+ACC00383,2023-11-22 00:00,Bihar,National Highway,Wrong Side Driving,Rainy,Daylight,Auto-Rickshaw,Fatal,2,0,5.8
+ACC00384,2023-01-12 23:00,Karnataka,Rural Road,Wrong Side Driving,Rainy,Night - Street Lit,Pedestrian,Minor,1,0,94.3
+ACC00385,2018-05-21 06:00,Bihar,Rural Road,Poor Road Condition,Hazy,Dawn/Dusk,Car,Minor,3,1,21.8
+ACC00386,2019-11-27 11:00,Uttar Pradesh,Expressway,Distracted Driving,Foggy,Night - No Light,Bus,Minor,0,0,85.8
+ACC00387,2022-05-26 20:00,West Bengal,Expressway,Over Speeding,Clear,Night - No Light,Pedestrian,Serious,3,2,119.9
+ACC00388,2023-09-10 09:00,Karnataka,Rural Road,Signal Jumping,Clear,Daylight,Pedestrian,Minor,2,0,23.6
+ACC00389,2021-07-20 10:00,Gujarat,Expressway,Distracted Driving,Foggy,Night - Street Lit,Car,Fatal,6,3,3.8
+ACC00390,2020-06-28 09:00,Uttar Pradesh,Rural Road,Wrong Side Driving,Clear,Dawn/Dusk,Car,Serious,4,0,49.0
+ACC00391,2020-08-26 02:00,Bihar,National Highway,Wrong Side Driving,Rainy,Dawn/Dusk,Auto-Rickshaw,Minor,0,0,36.8
+ACC00392,2020-11-25 12:00,Uttar Pradesh,Urban Road,Vehicle Failure,Rainy,Night - No Light,Bus,Serious,0,0,53.6
+ACC00393,2019-05-21 04:00,Madhya Pradesh,Expressway,Vehicle Failure,Clear,Dawn/Dusk,Auto-Rickshaw,Fatal,1,0,37.7
+ACC00394,2021-03-02 03:00,Rajasthan,State Highway,Poor Road Condition,Foggy,Daylight,Pedestrian,Fatal,3,0,91.3
+ACC00395,2019-05-08 13:00,Madhya Pradesh,Expressway,Vehicle Failure,Rainy,Night - Street Lit,Truck,Fatal,1,0,19.2
+ACC00396,2020-10-13 05:00,Karnataka,Expressway,Bad Weather,Clear,Dawn/Dusk,Auto-Rickshaw,Serious,2,1,73.0
+ACC00397,2023-10-06 16:00,Rajasthan,Rural Road,Vehicle Failure,Foggy,Daylight,Car,Serious,3,1,114.0
+ACC00398,2018-12-22 10:00,Bihar,National Highway,Over Speeding,Foggy,Dawn/Dusk,Bus,Fatal,3,1,112.7
+ACC00399,2018-12-21 09:00,Odisha,Urban Road,Wrong Side Driving,Hazy,Night - Street Lit,Auto-Rickshaw,Minor,3,0,57.0
+ACC00400,2020-11-10 03:00,Bihar,Rural Road,Distracted Driving,Foggy,Night - Street Lit,Car,Serious,3,1,87.3
+ACC00401,2021-01-07 09:00,Tamil Nadu,Urban Road,Vehicle Failure,Windy,Daylight,Truck,Minor,0,0,38.6
+ACC00402,2022-03-19 17:00,Odisha,Expressway,Over Speeding,Hazy,Daylight,Pedestrian,Serious,3,0,85.1
+ACC00403,2021-09-06 13:00,Madhya Pradesh,National Highway,Drunk Driving,Windy,Night - No Light,Pedestrian,Serious,2,0,54.2
+ACC00404,2023-12-25 22:00,West Bengal,Rural Road,Vehicle Failure,Hazy,Night - No Light,Two-Wheeler,Minor,3,0,78.4
+ACC00405,2018-09-25 05:00,Bihar,National Highway,Poor Road Condition,Windy,Daylight,Truck,Serious,1,1,72.6
+ACC00406,2023-09-06 09:00,Madhya Pradesh,Expressway,Distracted Driving,Rainy,Night - No Light,Car,Serious,2,1,63.0
+ACC00407,2018-10-01 16:00,Rajasthan,State Highway,Poor Road Condition,Rainy,Dawn/Dusk,Car,Minor,1,0,39.9
+ACC00408,2022-04-06 18:00,Tamil Nadu,Expressway,Vehicle Failure,Rainy,Daylight,Auto-Rickshaw,Serious,1,0,70.5
+ACC00409,2022-06-21 19:00,Gujarat,State Highway,Wrong Side Driving,Foggy,Dawn/Dusk,Truck,Fatal,1,0,29.5
+ACC00410,2020-08-03 16:00,Odisha,Urban Road,Distracted Driving,Foggy,Dawn/Dusk,Bus,Minor,1,0,37.0
+ACC00411,2022-10-11 23:00,Gujarat,State Highway,Bad Weather,Hazy,Daylight,Pedestrian,Serious,4,0,18.4
+ACC00412,2019-03-06 04:00,Tamil Nadu,State Highway,Vehicle Failure,Hazy,Night - Street Lit,Bus,Serious,2,1,33.3
+ACC00413,2020-01-05 17:00,Maharashtra,National Highway,Signal Jumping,Rainy,Dawn/Dusk,Car,Serious,2,0,22.9
+ACC00414,2021-02-10 20:00,Rajasthan,Urban Road,Vehicle Failure,Hazy,Night - Street Lit,Car,Fatal,2,0,0.7
+ACC00415,2019-05-03 01:00,Odisha,Urban Road,Bad Weather,Clear,Dawn/Dusk,Auto-Rickshaw,Minor,4,1,111.9
+ACC00416,2021-05-15 10:00,Madhya Pradesh,Expressway,Poor Road Condition,Hazy,Night - Street Lit,Two-Wheeler,Minor,6,3,37.2
+ACC00417,2021-05-12 06:00,Maharashtra,Rural Road,Wrong Side Driving,Clear,Daylight,Auto-Rickshaw,Fatal,2,0,15.3
+ACC00418,2020-12-02 00:00,Karnataka,Expressway,Wrong Side Driving,Clear,Night - No Light,Truck,Fatal,5,1,73.9
+ACC00419,2018-02-07 18:00,West Bengal,National Highway,Distracted Driving,Foggy,Daylight,Car,Serious,1,1,59.1
+ACC00420,2020-01-22 19:00,Tamil Nadu,Rural Road,Poor Road Condition,Rainy,Night - No Light,Truck,Serious,3,2,81.5
+ACC00421,2022-05-04 10:00,Karnataka,State Highway,Drunk Driving,Foggy,Daylight,Two-Wheeler,Fatal,0,0,8.8
+ACC00422,2021-07-11 20:00,Tamil Nadu,Urban Road,Bad Weather,Windy,Night - No Light,Pedestrian,Serious,2,2,95.0
+ACC00423,2018-09-06 10:00,Rajasthan,National Highway,Over Speeding,Clear,Dawn/Dusk,Car,Fatal,2,1,114.9
+ACC00424,2019-09-27 00:00,West Bengal,Urban Road,Vehicle Failure,Hazy,Daylight,Two-Wheeler,Minor,0,0,79.2
+ACC00425,2021-09-26 06:00,Rajasthan,National Highway,Poor Road Condition,Windy,Dawn/Dusk,Truck,Minor,1,0,114.6
+ACC00426,2023-03-23 23:00,Maharashtra,National Highway,Vehicle Failure,Foggy,Dawn/Dusk,Auto-Rickshaw,Serious,0,0,22.0
+ACC00427,2023-10-08 15:00,Gujarat,National Highway,Signal Jumping,Windy,Night - No Light,Two-Wheeler,Fatal,2,1,78.0
+ACC00428,2021-01-20 10:00,Tamil Nadu,State Highway,Bad Weather,Clear,Night - Street Lit,Auto-Rickshaw,Fatal,2,1,99.7
+ACC00429,2021-08-10 03:00,Gujarat,Expressway,Vehicle Failure,Rainy,Daylight,Auto-Rickshaw,Minor,2,0,117.6
+ACC00430,2019-12-11 11:00,Uttar Pradesh,Expressway,Signal Jumping,Clear,Night - No Light,Bus,Minor,4,1,4.5
+ACC00431,2021-10-25 23:00,West Bengal,Rural Road,Poor Road Condition,Windy,Dawn/Dusk,Auto-Rickshaw,Fatal,2,1,103.6
+ACC00432,2022-05-09 20:00,Tamil Nadu,National Highway,Bad Weather,Windy,Dawn/Dusk,Bus,Serious,3,1,10.3
+ACC00433,2020-08-26 08:00,Tamil Nadu,Urban Road,Poor Road Condition,Rainy,Daylight,Truck,Fatal,2,0,107.0
+ACC00434,2021-02-05 12:00,Odisha,Urban Road,Vehicle Failure,Rainy,Night - Street Lit,Two-Wheeler,Fatal,2,0,95.4
+ACC00435,2021-01-15 09:00,Gujarat,Urban Road,Wrong Side Driving,Hazy,Daylight,Truck,Fatal,0,0,7.9
+ACC00436,2023-08-14 05:00,Uttar Pradesh,State Highway,Bad Weather,Rainy,Night - No Light,Truck,Fatal,3,0,119.1
+ACC00437,2023-06-25 08:00,Maharashtra,Rural Road,Vehicle Failure,Foggy,Night - Street Lit,Bus,Serious,2,1,80.0
+ACC00438,2018-01-05 08:00,Tamil Nadu,Urban Road,Bad Weather,Rainy,Night - No Light,Bus,Minor,2,0,10.5
+ACC00439,2020-12-04 19:00,Bihar,State Highway,Signal Jumping,Clear,Night - Street Lit,Auto-Rickshaw,Serious,2,0,54.6
+ACC00440,2023-02-19 08:00,Odisha,State Highway,Vehicle Failure,Hazy,Night - No Light,Two-Wheeler,Fatal,2,0,77.8
+ACC00441,2023-11-27 08:00,West Bengal,Urban Road,Wrong Side Driving,Hazy,Daylight,Truck,Serious,1,1,89.3
+ACC00442,2021-07-01 18:00,Maharashtra,State Highway,Signal Jumping,Windy,Dawn/Dusk,Two-Wheeler,Minor,7,3,22.3
+ACC00443,2019-11-25 10:00,Rajasthan,Rural Road,Bad Weather,Windy,Night - Street Lit,Auto-Rickshaw,Serious,1,0,93.0
+ACC00444,2018-05-27 17:00,West Bengal,Expressway,Distracted Driving,Hazy,Daylight,Pedestrian,Minor,3,0,8.2
+ACC00445,2023-12-02 09:00,Karnataka,Rural Road,Poor Road Condition,Foggy,Daylight,Bus,Serious,0,0,11.7
+ACC00446,2019-12-16 08:00,Maharashtra,National Highway,Signal Jumping,Windy,Night - No Light,Pedestrian,Serious,1,0,28.8
+ACC00447,2018-11-02 14:00,Madhya Pradesh,Urban Road,Poor Road Condition,Rainy,Dawn/Dusk,Truck,Serious,2,0,27.4
+ACC00448,2023-09-27 01:00,Karnataka,Expressway,Over Speeding,Clear,Night - Street Lit,Bus,Minor,4,0,105.3
+ACC00449,2023-11-05 13:00,Odisha,Rural Road,Distracted Driving,Windy,Dawn/Dusk,Bus,Minor,2,2,4.0
+ACC00450,2018-09-23 21:00,Rajasthan,Urban Road,Bad Weather,Rainy,Daylight,Car,Fatal,3,1,13.7
+ACC00451,2023-01-22 18:00,Odisha,National Highway,Vehicle Failure,Rainy,Night - Street Lit,Bus,Serious,1,0,10.3
+ACC00452,2018-01-12 03:00,Rajasthan,National Highway,Over Speeding,Hazy,Night - Street Lit,Truck,Serious,3,0,84.0
+ACC00453,2021-10-20 05:00,Odisha,Rural Road,Poor Road Condition,Clear,Night - Street Lit,Pedestrian,Fatal,3,1,90.5
+ACC00454,2023-07-26 06:00,Madhya Pradesh,Rural Road,Signal Jumping,Foggy,Night - No Light,Auto-Rickshaw,Fatal,2,0,110.6
+ACC00455,2022-04-23 09:00,Maharashtra,Expressway,Poor Road Condition,Hazy,Dawn/Dusk,Pedestrian,Minor,0,0,74.7
+ACC00456,2019-07-03 01:00,Karnataka,Expressway,Wrong Side Driving,Rainy,Daylight,Two-Wheeler,Minor,1,0,107.9
+ACC00457,2020-11-05 21:00,Bihar,Rural Road,Over Speeding,Rainy,Night - Street Lit,Two-Wheeler,Fatal,1,0,78.6
+ACC00458,2023-09-19 17:00,Madhya Pradesh,Urban Road,Drunk Driving,Foggy,Night - Street Lit,Bus,Serious,1,1,56.3
+ACC00459,2021-05-01 12:00,Uttar Pradesh,Urban Road,Drunk Driving,Hazy,Daylight,Bus,Minor,2,0,114.2
+ACC00460,2019-08-23 15:00,Rajasthan,National Highway,Drunk Driving,Rainy,Daylight,Auto-Rickshaw,Serious,3,1,73.9
+ACC00461,2021-11-09 15:00,Bihar,Urban Road,Distracted Driving,Clear,Night - Street Lit,Truck,Minor,2,1,113.7
+ACC00462,2022-12-04 19:00,Uttar Pradesh,Expressway,Signal Jumping,Rainy,Dawn/Dusk,Truck,Serious,2,0,18.9
+ACC00463,2021-07-12 16:00,Gujarat,Expressway,Signal Jumping,Clear,Dawn/Dusk,Bus,Serious,3,1,50.9
+ACC00464,2018-02-20 12:00,Maharashtra,National Highway,Bad Weather,Hazy,Daylight,Car,Minor,1,0,1.2
+ACC00465,2021-07-03 06:00,Maharashtra,Expressway,Signal Jumping,Hazy,Night - No Light,Two-Wheeler,Minor,0,0,98.5
+ACC00466,2020-01-15 02:00,Rajasthan,Rural Road,Over Speeding,Foggy,Night - No Light,Two-Wheeler,Fatal,4,0,65.6
+ACC00467,2018-04-10 22:00,Tamil Nadu,State Highway,Signal Jumping,Clear,Daylight,Bus,Serious,1,0,1.1
+ACC00468,2019-11-28 01:00,Odisha,Rural Road,Vehicle Failure,Clear,Night - Street Lit,Bus,Serious,5,3,111.6
+ACC00469,2022-02-25 11:00,Rajasthan,Urban Road,Wrong Side Driving,Clear,Dawn/Dusk,Truck,Fatal,2,1,38.4
+ACC00470,2021-07-26 21:00,Tamil Nadu,Rural Road,Distracted Driving,Clear,Daylight,Pedestrian,Serious,0,0,22.8
+ACC00471,2023-06-03 08:00,Uttar Pradesh,State Highway,Drunk Driving,Rainy,Night - Street Lit,Bus,Serious,3,1,10.6
+ACC00472,2019-11-03 19:00,Gujarat,State Highway,Over Speeding,Foggy,Night - Street Lit,Bus,Fatal,3,0,20.1
+ACC00473,2021-08-22 00:00,Madhya Pradesh,Urban Road,Signal Jumping,Windy,Night - No Light,Car,Serious,3,0,80.8
+ACC00474,2019-07-23 09:00,Madhya Pradesh,Rural Road,Wrong Side Driving,Hazy,Daylight,Pedestrian,Minor,2,1,66.7
+ACC00475,2020-09-03 22:00,Tamil Nadu,State Highway,Over Speeding,Hazy,Night - No Light,Auto-Rickshaw,Serious,5,3,73.5
+ACC00476,2023-03-19 18:00,Rajasthan,Rural Road,Vehicle Failure,Rainy,Daylight,Two-Wheeler,Fatal,4,0,107.5
+ACC00477,2018-09-07 03:00,Madhya Pradesh,National Highway,Vehicle Failure,Foggy,Daylight,Bus,Serious,2,0,55.0
+ACC00478,2020-03-02 21:00,Tamil Nadu,Urban Road,Poor Road Condition,Foggy,Dawn/Dusk,Car,Minor,2,0,98.7
+ACC00479,2019-01-15 04:00,Uttar Pradesh,State Highway,Wrong Side Driving,Rainy,Dawn/Dusk,Bus,Serious,5,2,90.7
+ACC00480,2022-08-17 23:00,Maharashtra,State Highway,Distracted Driving,Foggy,Night - No Light,Truck,Serious,3,2,58.5
+ACC00481,2019-01-26 17:00,Tamil Nadu,National Highway,Bad Weather,Windy,Night - No Light,Truck,Serious,1,1,28.1
+ACC00482,2023-11-09 05:00,Odisha,National Highway,Poor Road Condition,Rainy,Night - No Light,Auto-Rickshaw,Fatal,5,2,60.2
+ACC00483,2021-04-23 10:00,Uttar Pradesh,Expressway,Drunk Driving,Windy,Night - No Light,Two-Wheeler,Fatal,2,0,96.7
+ACC00484,2023-03-13 13:00,Gujarat,Urban Road,Distracted Driving,Rainy,Night - Street Lit,Car,Minor,3,1,40.2
+ACC00485,2023-03-26 15:00,Maharashtra,State Highway,Signal Jumping,Clear,Night - Street Lit,Two-Wheeler,Serious,2,1,116.5
+ACC00486,2019-05-05 22:00,West Bengal,National Highway,Signal Jumping,Foggy,Night - Street Lit,Bus,Fatal,1,1,35.4
+ACC00487,2018-09-05 18:00,Rajasthan,Rural Road,Poor Road Condition,Foggy,Night - Street Lit,Auto-Rickshaw,Serious,2,2,0.4
+ACC00488,2023-01-08 15:00,West Bengal,Expressway,Over Speeding,Windy,Night - No Light,Pedestrian,Minor,1,1,80.1
+ACC00489,2021-05-28 09:00,Bihar,Urban Road,Poor Road Condition,Windy,Dawn/Dusk,Car,Minor,2,2,35.4
+ACC00490,2022-07-04 00:00,Gujarat,State Highway,Bad Weather,Windy,Daylight,Bus,Minor,4,1,70.7
+ACC00491,2022-02-09 10:00,Bihar,National Highway,Drunk Driving,Foggy,Night - No Light,Auto-Rickshaw,Serious,2,0,97.1
+ACC00492,2023-08-24 21:00,Bihar,State Highway,Drunk Driving,Windy,Night - No Light,Pedestrian,Minor,2,1,11.1
+ACC00493,2020-02-04 23:00,Gujarat,Rural Road,Signal Jumping,Foggy,Night - No Light,Truck,Minor,3,0,7.2
+ACC00494,2020-10-09 20:00,Gujarat,State Highway,Vehicle Failure,Clear,Night - No Light,Two-Wheeler,Minor,4,1,99.9
+ACC00495,2019-03-24 17:00,Tamil Nadu,Urban Road,Distracted Driving,Rainy,Night - Street Lit,Bus,Minor,2,2,48.9
+ACC00496,2019-07-25 01:00,Bihar,National Highway,Distracted Driving,Clear,Daylight,Car,Minor,0,0,11.0
+ACC00497,2022-02-02 12:00,Gujarat,Urban Road,Bad Weather,Rainy,Dawn/Dusk,Auto-Rickshaw,Serious,2,0,33.6
+ACC00498,2022-01-17 02:00,Maharashtra,National Highway,Wrong Side Driving,Rainy,Dawn/Dusk,Pedestrian,Minor,0,0,95.7
+ACC00499,2021-06-25 03:00,West Bengal,State Highway,Bad Weather,Hazy,Night - No Light,Auto-Rickshaw,Serious,3,1,16.4
+ACC00500,2018-02-08 08:00,Odisha,National Highway,Over Speeding,Hazy,Dawn/Dusk,Two-Wheeler,Serious,2,1,67.7
+ACC00501,2020-04-20 16:00,Rajasthan,Expressway,Wrong Side Driving,Clear,Night - Street Lit,Auto-Rickshaw,Minor,6,3,23.3
+ACC00502,2018-05-24 14:00,Karnataka,Rural Road,Wrong Side Driving,Clear,Dawn/Dusk,Pedestrian,Minor,0,0,71.9
+ACC00503,2018-06-17 18:00,Gujarat,Rural Road,Drunk Driving,Hazy,Daylight,Truck,Serious,0,0,48.5
+ACC00504,2018-06-15 17:00,Odisha,Urban Road,Wrong Side Driving,Foggy,Night - Street Lit,Bus,Fatal,2,0,94.0
+ACC00505,2021-01-05 16:00,Uttar Pradesh,Rural Road,Signal Jumping,Hazy,Night - Street Lit,Car,Serious,1,1,87.2
+ACC00506,2022-10-15 11:00,Bihar,Urban Road,Signal Jumping,Rainy,Night - No Light,Auto-Rickshaw,Minor,4,2,37.2
+ACC00507,2018-01-03 23:00,Maharashtra,Urban Road,Poor Road Condition,Foggy,Dawn/Dusk,Auto-Rickshaw,Minor,3,0,112.4
+ACC00508,2021-08-26 03:00,Uttar Pradesh,Urban Road,Signal Jumping,Rainy,Dawn/Dusk,Pedestrian,Serious,0,0,36.4
+ACC00509,2019-01-09 04:00,Odisha,Rural Road,Distracted Driving,Foggy,Night - Street Lit,Car,Serious,4,3,67.6
+ACC00510,2019-01-13 17:00,West Bengal,Rural Road,Distracted Driving,Clear,Daylight,Car,Serious,4,1,8.0
+ACC00511,2020-06-02 05:00,Uttar Pradesh,Urban Road,Signal Jumping,Windy,Night - No Light,Truck,Serious,4,2,60.8
+ACC00512,2021-01-19 17:00,Madhya Pradesh,Expressway,Wrong Side Driving,Rainy,Night - Street Lit,Auto-Rickshaw,Fatal,4,1,47.7
+ACC00513,2021-01-04 08:00,Maharashtra,State Highway,Bad Weather,Clear,Dawn/Dusk,Car,Minor,2,1,65.8
+ACC00514,2019-01-21 20:00,Odisha,Rural Road,Drunk Driving,Hazy,Dawn/Dusk,Bus,Minor,0,0,90.8
+ACC00515,2019-05-17 02:00,Uttar Pradesh,State Highway,Over Speeding,Rainy,Daylight,Two-Wheeler,Fatal,0,0,1.1
+ACC00516,2018-01-06 21:00,Uttar Pradesh,State Highway,Distracted Driving,Hazy,Daylight,Car,Serious,1,0,36.7
+ACC00517,2022-11-01 20:00,Odisha,Rural Road,Signal Jumping,Windy,Night - No Light,Pedestrian,Minor,3,0,75.5
+ACC00518,2021-01-03 11:00,Karnataka,Rural Road,Over Speeding,Rainy,Night - Street Lit,Bus,Fatal,1,0,85.5
+ACC00519,2022-03-14 00:00,Odisha,Urban Road,Drunk Driving,Hazy,Dawn/Dusk,Car,Fatal,4,2,17.6
+ACC00520,2018-03-11 09:00,Karnataka,Urban Road,Signal Jumping,Foggy,Night - No Light,Truck,Fatal,2,1,9.7
+ACC00521,2018-11-23 06:00,Rajasthan,Expressway,Over Speeding,Rainy,Night - Street Lit,Pedestrian,Minor,0,0,30.2
+ACC00522,2021-11-16 22:00,Gujarat,Urban Road,Over Speeding,Rainy,Night - Street Lit,Pedestrian,Serious,1,0,117.0
+ACC00523,2021-11-21 23:00,Gujarat,Urban Road,Vehicle Failure,Rainy,Night - Street Lit,Pedestrian,Serious,2,0,94.3
+ACC00524,2022-03-09 11:00,Rajasthan,Expressway,Drunk Driving,Windy,Night - No Light,Car,Serious,4,1,33.8
+ACC00525,2022-06-10 08:00,Madhya Pradesh,Urban Road,Over Speeding,Rainy,Night - Street Lit,Bus,Minor,2,0,72.1
+ACC00526,2021-05-05 03:00,Madhya Pradesh,Urban Road,Over Speeding,Clear,Dawn/Dusk,Car,Serious,0,0,78.2
+ACC00527,2018-08-07 21:00,Madhya Pradesh,Urban Road,Wrong Side Driving,Foggy,Night - Street Lit,Car,Serious,3,1,4.2
+ACC00528,2020-10-21 00:00,Maharashtra,National Highway,Vehicle Failure,Foggy,Dawn/Dusk,Pedestrian,Fatal,3,1,32.3
+ACC00529,2022-09-26 02:00,Madhya Pradesh,Rural Road,Drunk Driving,Hazy,Daylight,Car,Fatal,3,1,98.7
+ACC00530,2018-11-03 03:00,Madhya Pradesh,Expressway,Over Speeding,Foggy,Night - Street Lit,Auto-Rickshaw,Serious,1,1,35.7
+ACC00531,2019-07-04 16:00,Uttar Pradesh,National Highway,Drunk Driving,Windy,Night - No Light,Two-Wheeler,Serious,3,2,25.4
+ACC00532,2021-04-11 18:00,Uttar Pradesh,State Highway,Vehicle Failure,Foggy,Night - No Light,Auto-Rickshaw,Minor,4,1,37.2
+ACC00533,2023-12-01 06:00,Gujarat,State Highway,Signal Jumping,Rainy,Night - No Light,Truck,Serious,4,1,113.4
+ACC00534,2021-03-01 11:00,West Bengal,Expressway,Distracted Driving,Hazy,Dawn/Dusk,Two-Wheeler,Fatal,0,0,65.2
+ACC00535,2018-04-12 14:00,West Bengal,Expressway,Poor Road Condition,Foggy,Night - Street Lit,Two-Wheeler,Fatal,2,0,95.5
+ACC00536,2021-09-23 10:00,Tamil Nadu,State Highway,Bad Weather,Rainy,Night - Street Lit,Truck,Serious,1,0,99.0
+ACC00537,2020-01-23 12:00,Karnataka,Rural Road,Over Speeding,Windy,Night - Street Lit,Bus,Minor,0,0,40.1
+ACC00538,2022-07-14 13:00,Karnataka,Urban Road,Bad Weather,Clear,Night - Street Lit,Two-Wheeler,Minor,0,0,77.3
+ACC00539,2023-02-09 14:00,Madhya Pradesh,National Highway,Over Speeding,Windy,Dawn/Dusk,Bus,Serious,2,0,76.0
+ACC00540,2021-07-27 01:00,Odisha,Expressway,Poor Road Condition,Rainy,Daylight,Truck,Serious,6,3,59.6
+ACC00541,2019-02-05 03:00,West Bengal,National Highway,Bad Weather,Windy,Night - No Light,Car,Minor,2,0,97.5
+ACC00542,2020-11-27 10:00,Bihar,Expressway,Signal Jumping,Hazy,Night - No Light,Truck,Fatal,1,0,55.7
+ACC00543,2020-09-17 08:00,Karnataka,Expressway,Bad Weather,Windy,Night - No Light,Truck,Serious,3,3,68.0
+ACC00544,2023-08-10 10:00,Gujarat,National Highway,Drunk Driving,Windy,Daylight,Two-Wheeler,Serious,0,0,100.7
+ACC00545,2021-01-24 09:00,Odisha,National Highway,Distracted Driving,Hazy,Night - No Light,Pedestrian,Minor,3,1,79.1
+ACC00546,2019-09-24 02:00,Madhya Pradesh,National Highway,Vehicle Failure,Hazy,Dawn/Dusk,Auto-Rickshaw,Serious,5,2,90.5
+ACC00547,2021-10-17 08:00,Tamil Nadu,State Highway,Over Speeding,Foggy,Night - No Light,Truck,Serious,3,1,72.0
+ACC00548,2022-04-24 06:00,West Bengal,Rural Road,Over Speeding,Windy,Dawn/Dusk,Auto-Rickshaw,Minor,3,0,14.2
+ACC00549,2019-09-14 02:00,West Bengal,Expressway,Wrong Side Driving,Hazy,Dawn/Dusk,Truck,Serious,1,1,78.4
+ACC00550,2021-02-05 05:00,Maharashtra,Rural Road,Poor Road Condition,Foggy,Dawn/Dusk,Bus,Minor,5,2,41.1
+ACC00551,2022-02-08 08:00,Gujarat,Rural Road,Distracted Driving,Hazy,Daylight,Pedestrian,Fatal,0,0,68.1
+ACC00552,2023-05-11 18:00,Tamil Nadu,State Highway,Signal Jumping,Rainy,Dawn/Dusk,Bus,Fatal,0,0,62.6
+ACC00553,2021-07-19 20:00,Odisha,Urban Road,Drunk Driving,Rainy,Dawn/Dusk,Pedestrian,Fatal,2,1,73.3
+ACC00554,2021-02-02 04:00,Maharashtra,Expressway,Over Speeding,Windy,Night - Street Lit,Bus,Minor,2,0,53.9
+ACC00555,2021-07-23 10:00,Rajasthan,Expressway,Bad Weather,Foggy,Night - No Light,Auto-Rickshaw,Serious,3,3,95.2
+ACC00556,2018-04-21 12:00,West Bengal,Urban Road,Distracted Driving,Foggy,Dawn/Dusk,Two-Wheeler,Minor,6,3,49.8
+ACC00557,2020-04-09 08:00,Rajasthan,Expressway,Poor Road Condition,Foggy,Night - Street Lit,Two-Wheeler,Minor,3,0,74.8
+ACC00558,2018-06-23 03:00,Karnataka,Urban Road,Over Speeding,Rainy,Night - Street Lit,Bus,Minor,4,1,30.2
+ACC00559,2023-09-16 01:00,Madhya Pradesh,Expressway,Over Speeding,Hazy,Daylight,Auto-Rickshaw,Minor,1,0,75.3
+ACC00560,2022-01-14 06:00,Maharashtra,State Highway,Vehicle Failure,Clear,Night - Street Lit,Car,Serious,3,0,35.1
+ACC00561,2023-04-11 21:00,Gujarat,State Highway,Over Speeding,Foggy,Night - Street Lit,Bus,Fatal,0,0,78.2
+ACC00562,2022-08-12 12:00,Tamil Nadu,Urban Road,Drunk Driving,Rainy,Dawn/Dusk,Pedestrian,Fatal,4,2,114.5
+ACC00563,2018-06-28 22:00,Uttar Pradesh,National Highway,Signal Jumping,Foggy,Night - No Light,Bus,Fatal,0,0,12.7
+ACC00564,2022-02-17 18:00,Bihar,Rural Road,Wrong Side Driving,Rainy,Dawn/Dusk,Bus,Serious,1,1,37.6
+ACC00565,2021-11-10 08:00,Bihar,Rural Road,Signal Jumping,Foggy,Daylight,Auto-Rickshaw,Minor,0,0,78.6
+ACC00566,2023-09-01 22:00,Rajasthan,Rural Road,Wrong Side Driving,Clear,Night - Street Lit,Pedestrian,Fatal,3,1,42.8
+ACC00567,2019-04-03 04:00,Rajasthan,Expressway,Signal Jumping,Rainy,Dawn/Dusk,Auto-Rickshaw,Fatal,3,0,22.8
+ACC00568,2023-01-09 07:00,Gujarat,Urban Road,Vehicle Failure,Rainy,Daylight,Truck,Fatal,5,3,2.0
+ACC00569,2023-02-06 00:00,Bihar,Urban Road,Drunk Driving,Foggy,Night - No Light,Auto-Rickshaw,Serious,2,1,110.7
+ACC00570,2019-03-15 15:00,Bihar,Urban Road,Signal Jumping,Rainy,Dawn/Dusk,Auto-Rickshaw,Fatal,2,0,26.7
+ACC00571,2018-08-28 14:00,West Bengal,National Highway,Over Speeding,Foggy,Night - No Light,Pedestrian,Fatal,2,0,95.9
+ACC00572,2023-12-12 15:00,Gujarat,Urban Road,Wrong Side Driving,Rainy,Night - No Light,Pedestrian,Serious,2,0,93.3
+ACC00573,2023-08-13 01:00,West Bengal,Expressway,Drunk Driving,Hazy,Night - No Light,Pedestrian,Minor,3,1,87.5
+ACC00574,2022-02-11 14:00,Rajasthan,Expressway,Distracted Driving,Hazy,Dawn/Dusk,Two-Wheeler,Fatal,1,0,22.2
+ACC00575,2021-10-15 16:00,Madhya Pradesh,Expressway,Over Speeding,Rainy,Dawn/Dusk,Car,Serious,1,0,2.5
+ACC00576,2022-12-21 20:00,Karnataka,Urban Road,Drunk Driving,Windy,Daylight,Auto-Rickshaw,Fatal,4,3,114.6
+ACC00577,2023-09-17 08:00,West Bengal,Urban Road,Wrong Side Driving,Windy,Daylight,Two-Wheeler,Fatal,2,0,43.7
+ACC00578,2020-12-04 02:00,Odisha,Urban Road,Over Speeding,Rainy,Daylight,Auto-Rickshaw,Fatal,0,0,39.5
+ACC00579,2020-10-03 04:00,West Bengal,Rural Road,Vehicle Failure,Hazy,Dawn/Dusk,Car,Fatal,1,0,66.8
+ACC00580,2023-12-06 00:00,West Bengal,Urban Road,Distracted Driving,Windy,Daylight,Car,Minor,1,0,43.6
+ACC00581,2018-08-06 07:00,Gujarat,Expressway,Vehicle Failure,Windy,Daylight,Auto-Rickshaw,Serious,2,1,109.2
+ACC00582,2023-07-22 01:00,Gujarat,Rural Road,Over Speeding,Clear,Daylight,Bus,Minor,4,2,103.5
+ACC00583,2020-05-06 11:00,Tamil Nadu,Rural Road,Distracted Driving,Rainy,Night - Street Lit,Bus,Serious,2,0,26.3
+ACC00584,2023-08-21 00:00,West Bengal,Expressway,Distracted Driving,Hazy,Daylight,Truck,Minor,1,1,74.0
+ACC00585,2020-03-27 17:00,Karnataka,Expressway,Drunk Driving,Rainy,Dawn/Dusk,Two-Wheeler,Minor,3,1,31.6
+ACC00586,2021-09-28 18:00,Uttar Pradesh,Rural Road,Drunk Driving,Windy,Night - Street Lit,Bus,Fatal,1,0,18.5
+ACC00587,2020-09-28 19:00,West Bengal,National Highway,Signal Jumping,Windy,Dawn/Dusk,Two-Wheeler,Minor,3,0,29.1
+ACC00588,2020-09-26 18:00,Maharashtra,Rural Road,Bad Weather,Clear,Night - No Light,Car,Serious,3,0,25.9
+ACC00589,2023-08-06 04:00,Rajasthan,National Highway,Distracted Driving,Foggy,Night - No Light,Auto-Rickshaw,Minor,3,0,84.9
+ACC00590,2022-05-13 04:00,Odisha,National Highway,Over Speeding,Hazy,Dawn/Dusk,Pedestrian,Fatal,1,1,11.5
+ACC00591,2023-06-18 00:00,Karnataka,Expressway,Signal Jumping,Clear,Night - No Light,Car,Serious,0,0,58.8
+ACC00592,2018-05-04 23:00,Maharashtra,Expressway,Wrong Side Driving,Rainy,Daylight,Pedestrian,Fatal,1,1,3.2
+ACC00593,2023-12-08 15:00,West Bengal,State Highway,Vehicle Failure,Windy,Night - Street Lit,Bus,Minor,0,0,33.3
+ACC00594,2023-03-28 03:00,Odisha,Urban Road,Distracted Driving,Hazy,Night - Street Lit,Auto-Rickshaw,Minor,4,2,62.9
+ACC00595,2020-01-20 19:00,Rajasthan,Expressway,Drunk Driving,Rainy,Night - No Light,Car,Minor,0,0,3.0
+ACC00596,2018-10-26 06:00,Madhya Pradesh,National Highway,Vehicle Failure,Foggy,Dawn/Dusk,Truck,Fatal,4,1,5.5
+ACC00597,2023-09-13 22:00,Rajasthan,National Highway,Wrong Side Driving,Windy,Daylight,Car,Minor,1,0,51.9
+ACC00598,2018-06-28 04:00,Bihar,Rural Road,Signal Jumping,Windy,Night - Street Lit,Bus,Serious,4,3,21.2
+ACC00599,2018-10-22 15:00,Uttar Pradesh,Rural Road,Vehicle Failure,Clear,Night - No Light,Car,Serious,3,1,111.5
+ACC00600,2018-11-05 16:00,Karnataka,State Highway,Wrong Side Driving,Hazy,Daylight,Car,Minor,2,1,82.2
+ACC00601,2018-03-26 01:00,Rajasthan,Urban Road,Signal Jumping,Foggy,Night - No Light,Auto-Rickshaw,Fatal,0,0,91.7
+ACC00602,2018-11-20 16:00,Tamil Nadu,Urban Road,Drunk Driving,Hazy,Dawn/Dusk,Auto-Rickshaw,Serious,6,2,29.6
+ACC00603,2020-11-04 03:00,Odisha,Rural Road,Over Speeding,Rainy,Night - Street Lit,Bus,Minor,1,0,103.5
+ACC00604,2020-06-12 20:00,Gujarat,State Highway,Wrong Side Driving,Rainy,Dawn/Dusk,Auto-Rickshaw,Serious,0,0,102.2
+ACC00605,2019-09-27 12:00,Uttar Pradesh,Expressway,Drunk Driving,Foggy,Night - No Light,Truck,Fatal,2,2,104.1
+ACC00606,2019-11-14 13:00,Uttar Pradesh,Urban Road,Over Speeding,Hazy,Night - No Light,Truck,Fatal,3,0,79.5
+ACC00607,2022-12-15 02:00,Uttar Pradesh,Rural Road,Signal Jumping,Windy,Night - No Light,Auto-Rickshaw,Fatal,2,1,39.9
+ACC00608,2018-12-02 22:00,Tamil Nadu,Urban Road,Over Speeding,Hazy,Night - No Light,Auto-Rickshaw,Fatal,0,0,47.0
+ACC00609,2019-11-17 06:00,Rajasthan,Expressway,Wrong Side Driving,Hazy,Dawn/Dusk,Pedestrian,Serious,1,1,42.0
+ACC00610,2019-04-26 11:00,Tamil Nadu,National Highway,Drunk Driving,Foggy,Daylight,Two-Wheeler,Fatal,0,0,76.2
+ACC00611,2023-02-28 09:00,Karnataka,Urban Road,Drunk Driving,Clear,Night - Street Lit,Bus,Minor,2,1,78.8
+ACC00612,2020-10-24 13:00,Tamil Nadu,Expressway,Drunk Driving,Clear,Daylight,Auto-Rickshaw,Minor,3,0,2.2
+ACC00613,2018-08-20 05:00,West Bengal,Rural Road,Vehicle Failure,Foggy,Night - No Light,Car,Serious,3,2,24.1
+ACC00614,2020-05-19 14:00,Maharashtra,Expressway,Vehicle Failure,Foggy,Daylight,Auto-Rickshaw,Fatal,0,0,64.8
+ACC00615,2019-05-01 16:00,Karnataka,Expressway,Signal Jumping,Clear,Dawn/Dusk,Truck,Serious,0,0,0.3
+ACC00616,2018-10-06 02:00,Uttar Pradesh,Expressway,Poor Road Condition,Hazy,Night - Street Lit,Car,Fatal,3,1,2.9
+ACC00617,2021-11-15 13:00,West Bengal,National Highway,Bad Weather,Windy,Night - Street Lit,Pedestrian,Serious,1,0,65.7
+ACC00618,2019-03-14 08:00,Odisha,Rural Road,Drunk Driving,Clear,Daylight,Truck,Fatal,4,1,109.4
+ACC00619,2019-10-27 10:00,Bihar,National Highway,Poor Road Condition,Rainy,Night - No Light,Truck,Serious,0,0,22.1
+ACC00620,2023-08-17 19:00,Gujarat,National Highway,Poor Road Condition,Clear,Daylight,Pedestrian,Minor,2,1,44.9
+ACC00621,2022-04-22 21:00,West Bengal,Urban Road,Drunk Driving,Windy,Daylight,Truck,Serious,5,2,56.6
+ACC00622,2020-03-28 04:00,Odisha,Rural Road,Drunk Driving,Windy,Night - Street Lit,Pedestrian,Minor,2,0,57.9
+ACC00623,2021-08-10 01:00,Karnataka,Urban Road,Vehicle Failure,Foggy,Night - No Light,Bus,Fatal,1,1,104.0
+ACC00624,2020-02-13 13:00,Tamil Nadu,Urban Road,Bad Weather,Windy,Night - Street Lit,Truck,Serious,0,0,24.4
+ACC00625,2023-09-22 07:00,Tamil Nadu,Urban Road,Over Speeding,Foggy,Daylight,Bus,Minor,4,1,7.0
+ACC00626,2020-09-15 06:00,Karnataka,Rural Road,Drunk Driving,Windy,Daylight,Bus,Fatal,0,0,44.3
+ACC00627,2020-08-04 09:00,Gujarat,National Highway,Signal Jumping,Windy,Night - No Light,Auto-Rickshaw,Serious,0,0,28.8
+ACC00628,2020-02-27 23:00,Madhya Pradesh,State Highway,Drunk Driving,Clear,Dawn/Dusk,Bus,Minor,2,0,49.4
+ACC00629,2022-09-21 20:00,Maharashtra,State Highway,Over Speeding,Clear,Dawn/Dusk,Car,Fatal,4,1,103.3
+ACC00630,2023-08-06 10:00,Madhya Pradesh,Expressway,Wrong Side Driving,Rainy,Night - Street Lit,Two-Wheeler,Fatal,1,1,35.9
+ACC00631,2022-07-09 03:00,Odisha,Urban Road,Vehicle Failure,Clear,Night - Street Lit,Bus,Serious,3,1,5.9
+ACC00632,2019-01-21 17:00,Odisha,National Highway,Over Speeding,Rainy,Daylight,Truck,Minor,3,2,68.4
+ACC00633,2023-05-12 02:00,West Bengal,Expressway,Vehicle Failure,Windy,Daylight,Auto-Rickshaw,Fatal,0,0,117.7
+ACC00634,2018-08-08 23:00,Odisha,State Highway,Bad Weather,Hazy,Night - Street Lit,Car,Fatal,4,1,100.4
+ACC00635,2023-04-26 09:00,Tamil Nadu,State Highway,Poor Road Condition,Rainy,Dawn/Dusk,Car,Serious,1,0,112.8
+ACC00636,2018-08-06 01:00,Uttar Pradesh,State Highway,Over Speeding,Foggy,Night - No Light,Truck,Serious,5,3,110.5
+ACC00637,2018-04-03 23:00,Madhya Pradesh,Urban Road,Distracted Driving,Hazy,Night - No Light,Pedestrian,Fatal,1,0,68.6
+ACC00638,2023-03-11 04:00,Odisha,National Highway,Bad Weather,Clear,Daylight,Two-Wheeler,Serious,2,0,6.4
+ACC00639,2021-03-27 22:00,West Bengal,National Highway,Drunk Driving,Foggy,Night - No Light,Pedestrian,Fatal,0,0,98.5
+ACC00640,2023-07-11 21:00,Tamil Nadu,Urban Road,Distracted Driving,Foggy,Night - Street Lit,Bus,Minor,3,0,52.7
+ACC00641,2018-09-05 17:00,Karnataka,State Highway,Signal Jumping,Windy,Night - Street Lit,Truck,Minor,2,0,56.3
+ACC00642,2018-05-09 20:00,Rajasthan,Urban Road,Vehicle Failure,Clear,Night - No Light,Truck,Fatal,0,0,84.3
+ACC00643,2023-08-06 15:00,Bihar,National Highway,Over Speeding,Foggy,Night - No Light,Auto-Rickshaw,Serious,0,0,33.9
+ACC00644,2023-11-18 04:00,Bihar,National Highway,Wrong Side Driving,Foggy,Dawn/Dusk,Two-Wheeler,Minor,3,0,76.2
+ACC00645,2021-04-09 11:00,Bihar,Rural Road,Signal Jumping,Clear,Dawn/Dusk,Auto-Rickshaw,Fatal,3,0,89.9
+ACC00646,2019-05-06 12:00,Karnataka,Rural Road,Bad Weather,Windy,Night - No Light,Pedestrian,Serious,4,3,7.5
+ACC00647,2023-05-22 08:00,Bihar,National Highway,Wrong Side Driving,Hazy,Night - Street Lit,Pedestrian,Fatal,3,0,98.2
+ACC00648,2020-02-28 21:00,Bihar,Expressway,Drunk Driving,Windy,Daylight,Auto-Rickshaw,Minor,2,0,38.1
+ACC00649,2021-07-19 11:00,Gujarat,Rural Road,Vehicle Failure,Rainy,Daylight,Car,Fatal,2,0,69.1
+ACC00650,2018-01-24 05:00,Odisha,State Highway,Vehicle Failure,Foggy,Night - Street Lit,Auto-Rickshaw,Minor,1,0,13.5
+ACC00651,2020-09-25 10:00,Bihar,National Highway,Vehicle Failure,Hazy,Night - No Light,Car,Minor,2,1,101.8
+ACC00652,2023-07-24 16:00,Karnataka,Urban Road,Drunk Driving,Clear,Night - Street Lit,Truck,Minor,4,2,25.4
+ACC00653,2023-05-19 03:00,Tamil Nadu,Urban Road,Poor Road Condition,Hazy,Dawn/Dusk,Bus,Minor,1,0,0.4
+ACC00654,2019-11-16 13:00,West Bengal,National Highway,Wrong Side Driving,Hazy,Daylight,Pedestrian,Serious,1,0,114.8
+ACC00655,2020-07-11 05:00,Rajasthan,National Highway,Signal Jumping,Foggy,Night - No Light,Pedestrian,Minor,2,0,13.9
+ACC00656,2020-03-14 13:00,Bihar,National Highway,Vehicle Failure,Rainy,Night - No Light,Auto-Rickshaw,Serious,1,0,43.6
+ACC00657,2018-04-17 16:00,Uttar Pradesh,State Highway,Drunk Driving,Foggy,Night - Street Lit,Truck,Fatal,2,0,73.5
+ACC00658,2019-06-18 15:00,Tamil Nadu,Urban Road,Bad Weather,Clear,Night - Street Lit,Pedestrian,Fatal,2,0,45.7
+ACC00659,2019-06-10 18:00,Karnataka,Rural Road,Signal Jumping,Hazy,Night - No Light,Truck,Serious,3,0,67.1
+ACC00660,2022-09-25 21:00,Bihar,Expressway,Signal Jumping,Clear,Night - No Light,Auto-Rickshaw,Minor,0,0,38.1
+ACC00661,2021-09-05 22:00,West Bengal,State Highway,Poor Road Condition,Clear,Night - Street Lit,Two-Wheeler,Minor,4,3,10.0
+ACC00662,2020-07-21 09:00,Gujarat,Rural Road,Vehicle Failure,Windy,Daylight,Car,Minor,1,0,108.1
+ACC00663,2021-06-12 09:00,Uttar Pradesh,Rural Road,Distracted Driving,Windy,Night - No Light,Auto-Rickshaw,Serious,3,0,110.1
+ACC00664,2023-12-19 09:00,Gujarat,Expressway,Vehicle Failure,Hazy,Dawn/Dusk,Auto-Rickshaw,Serious,3,0,88.5
+ACC00665,2021-04-26 06:00,Tamil Nadu,Rural Road,Drunk Driving,Foggy,Night - Street Lit,Car,Serious,5,1,27.2
+ACC00666,2018-09-26 06:00,Uttar Pradesh,Rural Road,Vehicle Failure,Clear,Night - No Light,Bus,Fatal,3,1,47.2
+ACC00667,2021-10-07 15:00,Uttar Pradesh,Expressway,Signal Jumping,Foggy,Night - No Light,Car,Fatal,2,0,44.5
+ACC00668,2019-12-27 13:00,West Bengal,Rural Road,Signal Jumping,Windy,Night - No Light,Auto-Rickshaw,Serious,1,0,78.7
+ACC00669,2018-05-22 08:00,Tamil Nadu,National Highway,Wrong Side Driving,Hazy,Night - No Light,Two-Wheeler,Fatal,1,1,33.5
+ACC00670,2020-03-11 13:00,Rajasthan,Expressway,Bad Weather,Rainy,Dawn/Dusk,Auto-Rickshaw,Fatal,2,2,18.2
+ACC00671,2021-02-04 03:00,Bihar,Rural Road,Drunk Driving,Foggy,Dawn/Dusk,Bus,Minor,2,1,115.6
+ACC00672,2023-10-17 11:00,Bihar,Rural Road,Bad Weather,Windy,Dawn/Dusk,Pedestrian,Minor,5,2,110.3
+ACC00673,2022-06-05 05:00,Maharashtra,State Highway,Drunk Driving,Windy,Dawn/Dusk,Truck,Minor,2,0,16.4
+ACC00674,2023-05-13 08:00,Bihar,Expressway,Drunk Driving,Windy,Dawn/Dusk,Truck,Fatal,3,0,61.5
+ACC00675,2020-09-02 12:00,Gujarat,Rural Road,Vehicle Failure,Hazy,Night - Street Lit,Pedestrian,Serious,2,0,113.6
+ACC00676,2019-08-13 00:00,Karnataka,National Highway,Signal Jumping,Foggy,Night - No Light,Two-Wheeler,Minor,2,0,109.9
+ACC00677,2022-10-22 00:00,Maharashtra,Urban Road,Poor Road Condition,Foggy,Night - Street Lit,Car,Minor,1,1,103.4
+ACC00678,2022-12-07 19:00,West Bengal,National Highway,Wrong Side Driving,Clear,Daylight,Two-Wheeler,Fatal,1,1,73.4
+ACC00679,2022-08-07 07:00,Bihar,Urban Road,Wrong Side Driving,Hazy,Night - No Light,Auto-Rickshaw,Serious,1,0,80.7
+ACC00680,2019-07-20 10:00,Tamil Nadu,Urban Road,Wrong Side Driving,Hazy,Daylight,Two-Wheeler,Serious,3,2,20.9
+ACC00681,2018-11-01 19:00,West Bengal,National Highway,Distracted Driving,Foggy,Daylight,Truck,Fatal,2,1,107.6
+ACC00682,2018-09-26 02:00,Gujarat,State Highway,Distracted Driving,Clear,Night - Street Lit,Bus,Fatal,1,0,41.7
+ACC00683,2023-10-19 23:00,Uttar Pradesh,Expressway,Signal Jumping,Rainy,Daylight,Pedestrian,Fatal,3,0,17.4
+ACC00684,2019-07-25 11:00,Bihar,Rural Road,Distracted Driving,Foggy,Night - Street Lit,Pedestrian,Minor,4,0,23.0
+ACC00685,2022-03-08 04:00,Uttar Pradesh,State Highway,Vehicle Failure,Rainy,Daylight,Car,Minor,3,1,61.7
+ACC00686,2019-07-18 08:00,West Bengal,National Highway,Over Speeding,Windy,Daylight,Truck,Fatal,1,0,91.7
+ACC00687,2018-02-19 19:00,Maharashtra,State Highway,Vehicle Failure,Rainy,Daylight,Bus,Fatal,1,0,112.1
+ACC00688,2019-12-10 14:00,Tamil Nadu,National Highway,Poor Road Condition,Hazy,Daylight,Bus,Minor,0,0,102.1
+ACC00689,2020-09-15 16:00,Bihar,Expressway,Bad Weather,Windy,Night - No Light,Bus,Minor,1,1,119.1
+ACC00690,2023-04-27 14:00,Gujarat,State Highway,Bad Weather,Foggy,Night - Street Lit,Truck,Fatal,1,0,96.3
+ACC00691,2018-11-11 06:00,Tamil Nadu,State Highway,Signal Jumping,Windy,Daylight,Car,Serious,3,0,60.4
+ACC00692,2018-11-28 12:00,West Bengal,Urban Road,Signal Jumping,Rainy,Night - Street Lit,Bus,Serious,6,3,35.8
+ACC00693,2020-07-24 06:00,Gujarat,National Highway,Bad Weather,Foggy,Night - Street Lit,Two-Wheeler,Serious,1,0,65.7
+ACC00694,2020-06-18 23:00,Bihar,State Highway,Vehicle Failure,Hazy,Daylight,Two-Wheeler,Minor,1,0,76.5
+ACC00695,2023-10-19 23:00,Tamil Nadu,State Highway,Over Speeding,Windy,Night - Street Lit,Bus,Fatal,0,0,47.6
+ACC00696,2020-09-13 19:00,Odisha,Urban Road,Over Speeding,Windy,Dawn/Dusk,Car,Minor,0,0,74.1
+ACC00697,2019-06-06 22:00,Bihar,Expressway,Drunk Driving,Rainy,Dawn/Dusk,Truck,Fatal,2,1,37.5
+ACC00698,2018-04-28 09:00,Karnataka,Urban Road,Signal Jumping,Windy,Dawn/Dusk,Truck,Serious,2,0,79.6
+ACC00699,2018-01-08 06:00,Gujarat,Urban Road,Poor Road Condition,Foggy,Night - No Light,Car,Fatal,0,0,37.4
+ACC00700,2019-05-19 06:00,Tamil Nadu,Urban Road,Bad Weather,Clear,Night - Street Lit,Two-Wheeler,Serious,1,0,49.5
+ACC00701,2021-06-11 02:00,Bihar,Expressway,Poor Road Condition,Windy,Night - No Light,Pedestrian,Fatal,3,2,49.8
+ACC00702,2020-10-17 20:00,Rajasthan,State Highway,Bad Weather,Foggy,Dawn/Dusk,Two-Wheeler,Minor,4,1,12.4
+ACC00703,2020-06-17 10:00,Rajasthan,Expressway,Distracted Driving,Rainy,Night - Street Lit,Bus,Fatal,0,0,94.9
+ACC00704,2018-01-06 00:00,Maharashtra,Expressway,Wrong Side Driving,Foggy,Daylight,Truck,Serious,4,0,63.2
+ACC00705,2018-08-21 16:00,Uttar Pradesh,Urban Road,Vehicle Failure,Clear,Night - No Light,Pedestrian,Minor,4,0,51.9
+ACC00706,2018-02-28 08:00,West Bengal,National Highway,Drunk Driving,Hazy,Night - No Light,Pedestrian,Serious,1,1,28.3
+ACC00707,2022-03-25 01:00,Bihar,Urban Road,Signal Jumping,Foggy,Dawn/Dusk,Truck,Fatal,2,1,47.0
+ACC00708,2020-11-07 02:00,Gujarat,National Highway,Bad Weather,Foggy,Dawn/Dusk,Truck,Serious,1,0,82.9
+ACC00709,2021-12-02 16:00,Madhya Pradesh,Expressway,Bad Weather,Clear,Daylight,Auto-Rickshaw,Fatal,4,1,71.0
+ACC00710,2022-09-27 01:00,Gujarat,National Highway,Vehicle Failure,Windy,Dawn/Dusk,Car,Fatal,1,1,5.1
+ACC00711,2023-09-05 19:00,Gujarat,State Highway,Drunk Driving,Hazy,Night - No Light,Auto-Rickshaw,Minor,1,1,72.7
+ACC00712,2022-08-18 16:00,Maharashtra,Expressway,Over Speeding,Windy,Dawn/Dusk,Two-Wheeler,Serious,4,2,70.9
+ACC00713,2023-09-05 20:00,Madhya Pradesh,Rural Road,Vehicle Failure,Windy,Daylight,Truck,Minor,4,3,19.2
+ACC00714,2022-09-22 23:00,Madhya Pradesh,National Highway,Over Speeding,Rainy,Night - No Light,Car,Fatal,3,0,56.6
+ACC00715,2019-10-12 14:00,Bihar,Expressway,Distracted Driving,Hazy,Night - No Light,Auto-Rickshaw,Minor,3,0,5.0
+ACC00716,2022-01-12 06:00,West Bengal,State Highway,Wrong Side Driving,Windy,Night - Street Lit,Bus,Fatal,2,0,118.4
+ACC00717,2023-05-27 12:00,Uttar Pradesh,Expressway,Wrong Side Driving,Clear,Daylight,Two-Wheeler,Minor,0,0,22.0
+ACC00718,2020-10-25 13:00,Tamil Nadu,Rural Road,Poor Road Condition,Foggy,Daylight,Bus,Minor,2,2,59.3
+ACC00719,2018-10-07 11:00,West Bengal,State Highway,Over Speeding,Foggy,Night - Street Lit,Bus,Minor,0,0,80.6
+ACC00720,2022-03-22 09:00,Tamil Nadu,State Highway,Distracted Driving,Foggy,Daylight,Auto-Rickshaw,Serious,0,0,61.9
+ACC00721,2022-11-06 05:00,Odisha,State Highway,Vehicle Failure,Foggy,Night - Street Lit,Pedestrian,Fatal,1,0,15.8
+ACC00722,2018-03-24 13:00,Rajasthan,State Highway,Vehicle Failure,Rainy,Night - Street Lit,Two-Wheeler,Serious,1,0,35.1
+ACC00723,2020-05-15 14:00,Gujarat,Urban Road,Over Speeding,Rainy,Night - No Light,Two-Wheeler,Minor,5,1,117.9
+ACC00724,2018-02-18 11:00,Bihar,Expressway,Distracted Driving,Clear,Dawn/Dusk,Bus,Fatal,0,0,31.7
+ACC00725,2023-07-21 14:00,Uttar Pradesh,State Highway,Drunk Driving,Clear,Dawn/Dusk,Bus,Fatal,0,0,115.8
+ACC00726,2023-05-07 07:00,Tamil Nadu,Rural Road,Drunk Driving,Windy,Night - Street Lit,Bus,Fatal,3,1,72.9
+ACC00727,2018-09-08 19:00,Gujarat,Urban Road,Drunk Driving,Clear,Night - Street Lit,Bus,Fatal,1,1,95.8
+ACC00728,2023-02-12 21:00,Karnataka,Rural Road,Bad Weather,Clear,Dawn/Dusk,Truck,Fatal,3,0,61.9
+ACC00729,2021-12-15 05:00,Madhya Pradesh,State Highway,Drunk Driving,Clear,Daylight,Pedestrian,Serious,0,0,26.8
+ACC00730,2021-05-11 14:00,Bihar,Expressway,Signal Jumping,Rainy,Night - Street Lit,Auto-Rickshaw,Fatal,4,1,4.0
+ACC00731,2021-07-20 06:00,Karnataka,State Highway,Signal Jumping,Foggy,Night - No Light,Bus,Minor,3,0,70.3
+ACC00732,2020-09-28 17:00,Tamil Nadu,Urban Road,Vehicle Failure,Hazy,Night - Street Lit,Auto-Rickshaw,Serious,3,0,114.0
+ACC00733,2020-08-19 19:00,Gujarat,State Highway,Wrong Side Driving,Clear,Night - Street Lit,Car,Minor,1,0,76.3
+ACC00734,2018-04-21 21:00,Uttar Pradesh,National Highway,Drunk Driving,Foggy,Night - Street Lit,Bus,Serious,1,0,34.9
+ACC00735,2023-06-20 07:00,Rajasthan,National Highway,Bad Weather,Windy,Night - Street Lit,Two-Wheeler,Minor,0,0,68.1
+ACC00736,2023-03-19 17:00,West Bengal,Rural Road,Over Speeding,Foggy,Night - Street Lit,Two-Wheeler,Minor,4,3,43.8
+ACC00737,2019-12-27 19:00,Odisha,Expressway,Vehicle Failure,Hazy,Dawn/Dusk,Pedestrian,Serious,0,0,114.3
+ACC00738,2018-10-23 00:00,West Bengal,Rural Road,Bad Weather,Hazy,Dawn/Dusk,Two-Wheeler,Fatal,2,0,118.7
+ACC00739,2023-07-05 22:00,Madhya Pradesh,Urban Road,Signal Jumping,Clear,Dawn/Dusk,Car,Minor,2,0,60.5
+ACC00740,2018-05-18 16:00,Maharashtra,State Highway,Vehicle Failure,Hazy,Daylight,Bus,Fatal,5,1,111.2
+ACC00741,2020-02-12 22:00,Odisha,Expressway,Bad Weather,Rainy,Night - Street Lit,Truck,Serious,3,1,111.9
+ACC00742,2018-09-08 22:00,Maharashtra,National Highway,Wrong Side Driving,Rainy,Night - No Light,Car,Fatal,0,0,75.6
+ACC00743,2019-11-22 00:00,Bihar,Urban Road,Bad Weather,Windy,Dawn/Dusk,Auto-Rickshaw,Serious,0,0,77.2
+ACC00744,2019-11-13 09:00,Odisha,Urban Road,Signal Jumping,Clear,Night - No Light,Truck,Serious,1,0,55.4
+ACC00745,2019-01-18 03:00,Madhya Pradesh,Expressway,Over Speeding,Windy,Daylight,Truck,Minor,1,0,38.8
+ACC00746,2023-10-15 00:00,Gujarat,Urban Road,Signal Jumping,Foggy,Night - Street Lit,Two-Wheeler,Minor,2,0,111.2
+ACC00747,2022-07-20 11:00,Rajasthan,State Highway,Poor Road Condition,Clear,Daylight,Car,Serious,3,0,29.5
+ACC00748,2021-07-02 06:00,Bihar,National Highway,Vehicle Failure,Rainy,Daylight,Auto-Rickshaw,Minor,3,2,24.4
+ACC00749,2018-02-21 09:00,Gujarat,Urban Road,Distracted Driving,Windy,Night - Street Lit,Auto-Rickshaw,Serious,3,0,26.5
+ACC00750,2018-02-02 17:00,Uttar Pradesh,National Highway,Vehicle Failure,Foggy,Night - Street Lit,Bus,Minor,1,0,20.1
+ACC00751,2020-06-16 18:00,Tamil Nadu,Rural Road,Drunk Driving,Rainy,Night - No Light,Car,Fatal,3,1,27.6
+ACC00752,2019-09-12 03:00,West Bengal,Expressway,Over Speeding,Hazy,Night - No Light,Truck,Serious,5,1,107.3
+ACC00753,2022-02-09 22:00,Odisha,National Highway,Signal Jumping,Rainy,Dawn/Dusk,Auto-Rickshaw,Serious,1,0,35.1
+ACC00754,2023-04-01 12:00,Gujarat,Expressway,Wrong Side Driving,Windy,Daylight,Bus,Minor,2,1,35.7
+ACC00755,2020-02-18 13:00,Odisha,National Highway,Over Speeding,Hazy,Daylight,Truck,Fatal,1,1,5.7
+ACC00756,2019-08-16 10:00,Uttar Pradesh,State Highway,Distracted Driving,Rainy,Dawn/Dusk,Pedestrian,Minor,1,1,54.0
+ACC00757,2023-01-09 21:00,Tamil Nadu,Urban Road,Drunk Driving,Foggy,Night - No Light,Pedestrian,Serious,5,1,38.7
+ACC00758,2022-08-11 16:00,Rajasthan,Rural Road,Bad Weather,Rainy,Night - Street Lit,Auto-Rickshaw,Fatal,4,2,75.4
+ACC00759,2023-07-07 05:00,West Bengal,Urban Road,Bad Weather,Foggy,Daylight,Pedestrian,Fatal,2,2,78.6
+ACC00760,2019-12-15 12:00,Gujarat,National Highway,Signal Jumping,Windy,Dawn/Dusk,Bus,Minor,3,1,52.4
+ACC00761,2022-04-25 06:00,Gujarat,Rural Road,Vehicle Failure,Clear,Night - No Light,Auto-Rickshaw,Minor,2,1,72.0
+ACC00762,2019-07-13 23:00,Odisha,State Highway,Poor Road Condition,Hazy,Night - No Light,Auto-Rickshaw,Minor,2,0,26.1
+ACC00763,2023-08-03 08:00,Tamil Nadu,Expressway,Vehicle Failure,Rainy,Night - Street Lit,Two-Wheeler,Serious,1,0,31.1
+ACC00764,2021-04-16 15:00,Rajasthan,State Highway,Distracted Driving,Hazy,Night - Street Lit,Bus,Serious,0,0,47.8
+ACC00765,2020-12-12 02:00,Maharashtra,Rural Road,Distracted Driving,Rainy,Night - Street Lit,Two-Wheeler,Fatal,4,1,54.8
+ACC00766,2018-08-01 21:00,Uttar Pradesh,State Highway,Distracted Driving,Windy,Night - Street Lit,Truck,Serious,2,1,19.3
+ACC00767,2019-03-28 10:00,Maharashtra,Rural Road,Drunk Driving,Clear,Night - No Light,Pedestrian,Fatal,1,0,111.7
+ACC00768,2022-08-28 14:00,West Bengal,Expressway,Bad Weather,Hazy,Night - Street Lit,Bus,Fatal,2,1,47.5
+ACC00769,2020-11-02 01:00,Uttar Pradesh,Rural Road,Distracted Driving,Rainy,Night - No Light,Pedestrian,Serious,0,0,58.4
+ACC00770,2020-11-05 21:00,West Bengal,National Highway,Distracted Driving,Foggy,Daylight,Truck,Fatal,0,0,2.3
+ACC00771,2020-06-23 12:00,West Bengal,Expressway,Over Speeding,Clear,Night - Street Lit,Pedestrian,Serious,0,0,52.1
+ACC00772,2019-04-19 10:00,Madhya Pradesh,Rural Road,Poor Road Condition,Windy,Night - No Light,Auto-Rickshaw,Fatal,0,0,50.7
+ACC00773,2022-08-01 16:00,Karnataka,State Highway,Drunk Driving,Windy,Night - No Light,Car,Minor,2,0,78.7
+ACC00774,2020-03-19 19:00,West Bengal,State Highway,Bad Weather,Clear,Dawn/Dusk,Bus,Minor,5,1,29.9
+ACC00775,2020-07-10 01:00,Odisha,Urban Road,Vehicle Failure,Foggy,Dawn/Dusk,Bus,Minor,3,1,108.6
+ACC00776,2019-10-06 15:00,West Bengal,State Highway,Signal Jumping,Windy,Night - Street Lit,Bus,Serious,2,0,70.6
+ACC00777,2019-05-25 16:00,Odisha,Urban Road,Wrong Side Driving,Windy,Daylight,Two-Wheeler,Fatal,3,1,108.1
+ACC00778,2020-09-27 16:00,Karnataka,Urban Road,Vehicle Failure,Windy,Night - No Light,Car,Fatal,2,1,50.3
+ACC00779,2023-07-23 15:00,Madhya Pradesh,Urban Road,Over Speeding,Hazy,Night - Street Lit,Car,Minor,3,0,113.7
+ACC00780,2020-02-22 12:00,Gujarat,State Highway,Vehicle Failure,Windy,Night - Street Lit,Bus,Serious,2,0,37.7
+ACC00781,2021-02-13 22:00,Uttar Pradesh,Rural Road,Drunk Driving,Rainy,Night - No Light,Truck,Serious,1,0,68.5
+ACC00782,2022-04-20 19:00,Bihar,State Highway,Distracted Driving,Clear,Night - No Light,Car,Fatal,0,0,39.3
+ACC00783,2018-06-15 17:00,Gujarat,Rural Road,Drunk Driving,Foggy,Daylight,Pedestrian,Serious,0,0,82.3
+ACC00784,2023-03-04 08:00,Gujarat,State Highway,Over Speeding,Foggy,Night - Street Lit,Car,Serious,3,2,68.4
+ACC00785,2023-11-21 13:00,Tamil Nadu,Expressway,Signal Jumping,Clear,Night - No Light,Pedestrian,Fatal,2,0,107.8
+ACC00786,2022-06-04 18:00,Karnataka,National Highway,Bad Weather,Foggy,Night - No Light,Truck,Minor,2,1,53.4
+ACC00787,2023-11-28 11:00,Tamil Nadu,Expressway,Distracted Driving,Foggy,Night - No Light,Bus,Minor,1,1,50.4
+ACC00788,2020-04-16 07:00,Karnataka,National Highway,Over Speeding,Clear,Daylight,Pedestrian,Fatal,1,0,19.5
+ACC00789,2022-12-26 17:00,Odisha,State Highway,Drunk Driving,Windy,Night - No Light,Car,Serious,3,3,118.0
+ACC00790,2020-11-19 18:00,Bihar,Urban Road,Poor Road Condition,Clear,Night - No Light,Car,Fatal,1,0,36.5
+ACC00791,2020-05-19 18:00,Gujarat,Rural Road,Drunk Driving,Hazy,Daylight,Auto-Rickshaw,Serious,2,1,105.1
+ACC00792,2023-10-26 23:00,Madhya Pradesh,Expressway,Drunk Driving,Hazy,Dawn/Dusk,Pedestrian,Fatal,3,0,45.0
+ACC00793,2019-11-12 15:00,Uttar Pradesh,Urban Road,Over Speeding,Hazy,Night - No Light,Bus,Fatal,1,0,0.0
+ACC00794,2023-12-14 14:00,Maharashtra,Rural Road,Signal Jumping,Foggy,Night - No Light,Truck,Minor,1,1,17.1
+ACC00795,2021-07-23 10:00,Gujarat,National Highway,Vehicle Failure,Rainy,Night - Street Lit,Two-Wheeler,Minor,4,1,41.3
+ACC00796,2018-02-09 23:00,Odisha,Expressway,Distracted Driving,Rainy,Night - No Light,Pedestrian,Fatal,3,2,87.6
+ACC00797,2018-07-26 04:00,Madhya Pradesh,Rural Road,Distracted Driving,Rainy,Daylight,Bus,Fatal,1,1,60.4
+ACC00798,2020-07-15 02:00,Odisha,Expressway,Drunk Driving,Windy,Night - Street Lit,Pedestrian,Minor,3,2,94.9
+ACC00799,2023-06-05 16:00,Bihar,Expressway,Bad Weather,Rainy,Daylight,Pedestrian,Minor,4,1,1.3
+ACC00800,2018-05-15 15:00,Odisha,Urban Road,Distracted Driving,Clear,Night - Street Lit,Truck,Fatal,2,0,61.9
+ACC00801,2018-12-23 21:00,Odisha,National Highway,Signal Jumping,Windy,Night - Street Lit,Truck,Serious,1,0,4.5
+ACC00802,2020-05-11 05:00,West Bengal,Rural Road,Poor Road Condition,Hazy,Daylight,Bus,Serious,2,2,109.6
+ACC00803,2018-08-18 02:00,Uttar Pradesh,Expressway,Over Speeding,Foggy,Night - Street Lit,Auto-Rickshaw,Serious,3,2,33.0
+ACC00804,2020-08-27 06:00,Gujarat,Expressway,Poor Road Condition,Foggy,Daylight,Auto-Rickshaw,Fatal,3,1,61.6
+ACC00805,2021-09-20 15:00,Bihar,National Highway,Bad Weather,Hazy,Daylight,Bus,Serious,3,0,118.4
+ACC00806,2018-09-13 19:00,West Bengal,State Highway,Distracted Driving,Hazy,Dawn/Dusk,Bus,Fatal,3,1,69.9
+ACC00807,2021-04-18 22:00,Odisha,Rural Road,Over Speeding,Clear,Night - Street Lit,Pedestrian,Minor,0,0,51.6
+ACC00808,2019-12-15 20:00,Karnataka,State Highway,Signal Jumping,Rainy,Night - No Light,Bus,Serious,3,0,65.5
+ACC00809,2019-05-18 06:00,Madhya Pradesh,National Highway,Bad Weather,Windy,Dawn/Dusk,Bus,Serious,2,0,111.8
+ACC00810,2021-03-12 22:00,Maharashtra,National Highway,Bad Weather,Foggy,Night - Street Lit,Two-Wheeler,Minor,1,0,0.0
+ACC00811,2020-02-05 23:00,Maharashtra,Rural Road,Signal Jumping,Foggy,Daylight,Auto-Rickshaw,Fatal,2,1,79.5
+ACC00812,2019-11-15 03:00,West Bengal,State Highway,Drunk Driving,Foggy,Dawn/Dusk,Pedestrian,Serious,1,1,37.6
+ACC00813,2020-06-06 09:00,Bihar,National Highway,Signal Jumping,Windy,Night - Street Lit,Bus,Fatal,1,1,28.4
+ACC00814,2019-11-16 21:00,Uttar Pradesh,National Highway,Drunk Driving,Hazy,Night - Street Lit,Bus,Fatal,2,0,76.7
+ACC00815,2019-12-13 20:00,West Bengal,Rural Road,Vehicle Failure,Foggy,Night - No Light,Pedestrian,Serious,1,0,20.8
+ACC00816,2021-01-03 03:00,Madhya Pradesh,Urban Road,Drunk Driving,Foggy,Night - Street Lit,Bus,Minor,1,1,40.3
+ACC00817,2023-09-22 20:00,Gujarat,National Highway,Distracted Driving,Rainy,Night - Street Lit,Auto-Rickshaw,Serious,2,1,15.0
+ACC00818,2022-06-10 11:00,Uttar Pradesh,Urban Road,Poor Road Condition,Rainy,Daylight,Car,Fatal,4,1,27.5
+ACC00819,2021-06-10 01:00,West Bengal,National Highway,Bad Weather,Foggy,Night - Street Lit,Auto-Rickshaw,Minor,3,1,2.6
+ACC00820,2021-04-07 15:00,Karnataka,Rural Road,Wrong Side Driving,Hazy,Night - No Light,Pedestrian,Minor,5,2,85.1
+ACC00821,2018-06-12 19:00,Maharashtra,Urban Road,Wrong Side Driving,Rainy,Daylight,Truck,Serious,3,1,33.1
+ACC00822,2020-10-13 04:00,Uttar Pradesh,Urban Road,Signal Jumping,Foggy,Daylight,Bus,Fatal,4,0,45.7
+ACC00823,2018-10-06 19:00,Odisha,Rural Road,Vehicle Failure,Clear,Night - Street Lit,Bus,Fatal,0,0,87.4
+ACC00824,2020-11-24 18:00,Tamil Nadu,National Highway,Bad Weather,Foggy,Night - No Light,Car,Serious,1,0,37.4
+ACC00825,2019-05-21 12:00,Uttar Pradesh,Urban Road,Bad Weather,Rainy,Night - Street Lit,Two-Wheeler,Fatal,1,0,16.0
+ACC00826,2021-11-15 13:00,Rajasthan,Urban Road,Vehicle Failure,Rainy,Daylight,Two-Wheeler,Serious,2,1,57.7
+ACC00827,2019-06-08 17:00,Gujarat,State Highway,Drunk Driving,Clear,Night - Street Lit,Pedestrian,Serious,3,0,72.7
+ACC00828,2022-10-18 14:00,Uttar Pradesh,Expressway,Distracted Driving,Foggy,Dawn/Dusk,Bus,Fatal,4,1,35.8
+ACC00829,2019-11-11 14:00,Rajasthan,Urban Road,Distracted Driving,Foggy,Dawn/Dusk,Two-Wheeler,Minor,3,0,46.8
+ACC00830,2021-04-17 18:00,West Bengal,State Highway,Wrong Side Driving,Foggy,Dawn/Dusk,Car,Serious,3,0,70.3
+ACC00831,2020-03-09 14:00,Maharashtra,Expressway,Signal Jumping,Hazy,Dawn/Dusk,Truck,Serious,1,0,82.1
+ACC00832,2019-01-07 09:00,Odisha,State Highway,Signal Jumping,Hazy,Night - No Light,Two-Wheeler,Serious,0,0,56.2
+ACC00833,2022-10-13 14:00,Uttar Pradesh,Expressway,Poor Road Condition,Clear,Night - Street Lit,Pedestrian,Serious,2,0,42.1
+ACC00834,2021-02-14 02:00,Tamil Nadu,Expressway,Distracted Driving,Rainy,Night - No Light,Pedestrian,Serious,1,0,66.9
+ACC00835,2021-02-06 01:00,Uttar Pradesh,Expressway,Over Speeding,Windy,Night - Street Lit,Pedestrian,Serious,1,0,24.1
+ACC00836,2021-05-08 09:00,Maharashtra,Urban Road,Wrong Side Driving,Clear,Night - No Light,Bus,Serious,4,3,28.4
+ACC00837,2018-12-14 06:00,Bihar,Rural Road,Over Speeding,Clear,Night - Street Lit,Car,Minor,4,3,52.7
+ACC00838,2023-01-25 21:00,Gujarat,Urban Road,Poor Road Condition,Clear,Night - Street Lit,Bus,Serious,2,0,19.1
+ACC00839,2023-05-06 01:00,Tamil Nadu,National Highway,Signal Jumping,Foggy,Daylight,Car,Minor,0,0,7.0
+ACC00840,2018-10-22 15:00,Rajasthan,Urban Road,Signal Jumping,Hazy,Night - No Light,Bus,Minor,2,1,62.6
+ACC00841,2020-05-14 16:00,Maharashtra,Urban Road,Poor Road Condition,Clear,Daylight,Auto-Rickshaw,Fatal,0,0,61.2
+ACC00842,2019-03-23 13:00,Bihar,Expressway,Distracted Driving,Rainy,Daylight,Auto-Rickshaw,Fatal,1,1,70.9
+ACC00843,2020-02-04 20:00,Madhya Pradesh,State Highway,Bad Weather,Hazy,Daylight,Auto-Rickshaw,Minor,3,1,59.8
+ACC00844,2018-04-18 00:00,Madhya Pradesh,Urban Road,Over Speeding,Clear,Dawn/Dusk,Two-Wheeler,Minor,3,0,115.7
+ACC00845,2018-03-25 21:00,Karnataka,National Highway,Distracted Driving,Clear,Night - No Light,Bus,Serious,2,0,0.9
+ACC00846,2019-08-18 16:00,Odisha,Urban Road,Drunk Driving,Windy,Daylight,Two-Wheeler,Fatal,2,1,98.0
+ACC00847,2019-11-28 16:00,Odisha,National Highway,Over Speeding,Windy,Daylight,Pedestrian,Minor,0,0,51.2
+ACC00848,2023-08-21 23:00,Odisha,Expressway,Bad Weather,Rainy,Night - Street Lit,Bus,Fatal,4,1,23.8
+ACC00849,2019-08-24 14:00,Rajasthan,Urban Road,Wrong Side Driving,Windy,Dawn/Dusk,Auto-Rickshaw,Fatal,3,2,79.4
+ACC00850,2023-04-16 00:00,Karnataka,National Highway,Wrong Side Driving,Rainy,Night - No Light,Two-Wheeler,Serious,0,0,109.1
+ACC00851,2022-05-10 04:00,Uttar Pradesh,Expressway,Bad Weather,Hazy,Night - No Light,Car,Minor,0,0,71.0
+ACC00852,2021-06-12 10:00,Uttar Pradesh,Urban Road,Poor Road Condition,Clear,Dawn/Dusk,Pedestrian,Fatal,0,0,82.1
+ACC00853,2018-01-24 10:00,Tamil Nadu,Urban Road,Drunk Driving,Rainy,Night - Street Lit,Pedestrian,Fatal,4,1,71.6
+ACC00854,2019-02-09 21:00,West Bengal,Urban Road,Signal Jumping,Rainy,Dawn/Dusk,Pedestrian,Fatal,2,2,23.0
+ACC00855,2020-02-13 03:00,Odisha,National Highway,Drunk Driving,Clear,Night - Street Lit,Bus,Serious,3,2,70.6
+ACC00856,2020-09-15 22:00,Rajasthan,State Highway,Drunk Driving,Hazy,Night - Street Lit,Auto-Rickshaw,Fatal,0,0,80.0
+ACC00857,2021-05-01 23:00,Madhya Pradesh,State Highway,Bad Weather,Foggy,Night - No Light,Auto-Rickshaw,Serious,4,2,105.0
+ACC00858,2020-03-23 20:00,Karnataka,State Highway,Bad Weather,Rainy,Dawn/Dusk,Pedestrian,Serious,2,2,115.9
+ACC00859,2021-09-01 21:00,Maharashtra,Expressway,Bad Weather,Hazy,Daylight,Bus,Serious,3,2,67.2
+ACC00860,2018-06-26 15:00,West Bengal,National Highway,Over Speeding,Foggy,Daylight,Car,Fatal,1,1,6.7
+ACC00861,2023-09-05 22:00,Bihar,National Highway,Distracted Driving,Foggy,Night - Street Lit,Car,Fatal,2,1,76.0
+ACC00862,2021-02-02 04:00,Madhya Pradesh,Urban Road,Wrong Side Driving,Hazy,Night - Street Lit,Bus,Minor,3,0,82.0
+ACC00863,2020-02-24 03:00,Odisha,National Highway,Wrong Side Driving,Rainy,Night - No Light,Car,Fatal,1,1,28.6
+ACC00864,2018-08-04 21:00,Maharashtra,Rural Road,Poor Road Condition,Clear,Dawn/Dusk,Bus,Serious,5,2,46.7
+ACC00865,2019-09-28 20:00,Gujarat,State Highway,Poor Road Condition,Foggy,Dawn/Dusk,Car,Serious,1,0,103.2
+ACC00866,2020-06-08 15:00,West Bengal,Rural Road,Signal Jumping,Windy,Night - No Light,Pedestrian,Minor,4,1,81.3
+ACC00867,2019-01-14 14:00,Madhya Pradesh,Rural Road,Bad Weather,Windy,Night - No Light,Pedestrian,Minor,3,2,46.2
+ACC00868,2022-12-18 01:00,Madhya Pradesh,Urban Road,Over Speeding,Foggy,Night - No Light,Truck,Minor,3,2,28.1
+ACC00869,2021-07-17 06:00,Maharashtra,State Highway,Signal Jumping,Clear,Dawn/Dusk,Auto-Rickshaw,Fatal,3,2,80.1
+ACC00870,2018-01-22 16:00,Maharashtra,Rural Road,Wrong Side Driving,Clear,Night - Street Lit,Car,Serious,2,0,28.6
+ACC00871,2023-11-16 08:00,Madhya Pradesh,Expressway,Bad Weather,Foggy,Night - Street Lit,Bus,Fatal,4,1,52.0
+ACC00872,2019-05-16 05:00,Madhya Pradesh,National Highway,Distracted Driving,Windy,Dawn/Dusk,Bus,Fatal,3,1,21.3
+ACC00873,2022-08-28 05:00,Karnataka,National Highway,Drunk Driving,Clear,Night - Street Lit,Two-Wheeler,Minor,0,0,108.8
+ACC00874,2020-03-16 10:00,Madhya Pradesh,National Highway,Distracted Driving,Windy,Night - No Light,Bus,Fatal,1,1,94.8
+ACC00875,2021-09-20 11:00,Karnataka,National Highway,Signal Jumping,Windy,Night - No Light,Pedestrian,Serious,3,1,102.0
+ACC00876,2022-03-16 22:00,Uttar Pradesh,National Highway,Bad Weather,Windy,Daylight,Bus,Serious,3,0,17.5
+ACC00877,2021-08-08 23:00,Maharashtra,National Highway,Vehicle Failure,Hazy,Dawn/Dusk,Car,Fatal,2,0,91.6
+ACC00878,2022-03-09 13:00,West Bengal,Expressway,Drunk Driving,Hazy,Night - No Light,Two-Wheeler,Serious,2,0,111.3
+ACC00879,2019-02-02 11:00,Odisha,Rural Road,Bad Weather,Foggy,Dawn/Dusk,Bus,Fatal,4,0,63.0
+ACC00880,2023-05-12 02:00,West Bengal,Expressway,Bad Weather,Foggy,Dawn/Dusk,Pedestrian,Serious,0,0,101.9
+ACC00881,2021-01-11 15:00,Karnataka,Urban Road,Distracted Driving,Hazy,Dawn/Dusk,Bus,Serious,4,1,32.0
+ACC00882,2021-08-18 22:00,Gujarat,Urban Road,Drunk Driving,Hazy,Night - No Light,Pedestrian,Serious,1,0,115.0
+ACC00883,2021-09-06 06:00,Madhya Pradesh,Urban Road,Bad Weather,Hazy,Night - No Light,Truck,Fatal,3,2,28.2
+ACC00884,2022-08-24 22:00,Bihar,National Highway,Drunk Driving,Foggy,Night - Street Lit,Two-Wheeler,Fatal,2,0,21.9
+ACC00885,2018-06-13 14:00,Gujarat,Expressway,Poor Road Condition,Hazy,Dawn/Dusk,Car,Minor,1,1,5.8
+ACC00886,2019-07-25 06:00,Maharashtra,National Highway,Vehicle Failure,Rainy,Night - No Light,Truck,Minor,1,0,96.8
+ACC00887,2022-08-10 15:00,Rajasthan,Expressway,Over Speeding,Hazy,Dawn/Dusk,Car,Minor,2,0,104.5
+ACC00888,2018-01-15 01:00,Maharashtra,Expressway,Bad Weather,Hazy,Night - No Light,Car,Minor,5,1,81.5
+ACC00889,2022-08-19 03:00,West Bengal,Expressway,Bad Weather,Foggy,Night - Street Lit,Auto-Rickshaw,Fatal,3,1,33.0
+ACC00890,2023-12-25 21:00,Bihar,National Highway,Over Speeding,Clear,Daylight,Car,Minor,5,2,87.8
+ACC00891,2022-10-06 09:00,Gujarat,Rural Road,Vehicle Failure,Windy,Dawn/Dusk,Bus,Fatal,0,0,5.5
+ACC00892,2019-03-04 21:00,Bihar,Expressway,Signal Jumping,Rainy,Dawn/Dusk,Pedestrian,Serious,2,1,23.5
+ACC00893,2022-11-15 18:00,Tamil Nadu,National Highway,Over Speeding,Clear,Dawn/Dusk,Auto-Rickshaw,Fatal,1,0,82.3
+ACC00894,2020-11-10 14:00,Madhya Pradesh,Expressway,Drunk Driving,Windy,Dawn/Dusk,Bus,Fatal,1,0,111.7
+ACC00895,2023-03-16 18:00,Gujarat,Expressway,Signal Jumping,Rainy,Night - No Light,Bus,Fatal,1,0,54.6
+ACC00896,2022-11-17 22:00,Karnataka,Urban Road,Distracted Driving,Clear,Night - No Light,Pedestrian,Fatal,1,0,108.2
+ACC00897,2020-03-06 09:00,Maharashtra,Rural Road,Distracted Driving,Rainy,Night - Street Lit,Truck,Fatal,2,0,50.9
+ACC00898,2020-08-23 19:00,Gujarat,State Highway,Poor Road Condition,Clear,Night - Street Lit,Pedestrian,Minor,2,1,10.5
+ACC00899,2021-10-15 22:00,Bihar,National Highway,Distracted Driving,Windy,Dawn/Dusk,Truck,Minor,0,0,65.9
+ACC00900,2023-01-06 08:00,Maharashtra,National Highway,Signal Jumping,Hazy,Daylight,Pedestrian,Fatal,1,1,65.5
+ACC00901,2022-07-14 21:00,Tamil Nadu,Expressway,Vehicle Failure,Hazy,Daylight,Bus,Serious,2,1,8.2
+ACC00902,2021-10-20 12:00,Tamil Nadu,Expressway,Over Speeding,Rainy,Night - Street Lit,Car,Fatal,1,1,42.4
+ACC00903,2019-07-24 16:00,Odisha,Rural Road,Bad Weather,Foggy,Night - Street Lit,Auto-Rickshaw,Minor,1,1,106.1
+ACC00904,2023-04-23 14:00,Maharashtra,State Highway,Over Speeding,Hazy,Night - Street Lit,Auto-Rickshaw,Fatal,3,3,81.6
+ACC00905,2018-03-25 17:00,Maharashtra,State Highway,Vehicle Failure,Windy,Daylight,Car,Fatal,2,1,69.1
+ACC00906,2019-05-17 20:00,Karnataka,Urban Road,Signal Jumping,Rainy,Daylight,Two-Wheeler,Minor,6,3,95.1
+ACC00907,2020-10-06 08:00,Odisha,Urban Road,Drunk Driving,Windy,Dawn/Dusk,Auto-Rickshaw,Fatal,1,0,94.9
+ACC00908,2023-01-20 18:00,Odisha,Expressway,Signal Jumping,Hazy,Night - No Light,Truck,Fatal,4,1,95.9
+ACC00909,2018-11-24 03:00,Odisha,Rural Road,Distracted Driving,Clear,Night - No Light,Auto-Rickshaw,Serious,2,0,75.4
+ACC00910,2023-05-23 07:00,Karnataka,State Highway,Vehicle Failure,Foggy,Night - Street Lit,Bus,Minor,0,0,50.2
+ACC00911,2020-02-24 06:00,Gujarat,State Highway,Drunk Driving,Foggy,Dawn/Dusk,Pedestrian,Serious,3,1,72.5
+ACC00912,2023-02-08 03:00,Rajasthan,Urban Road,Poor Road Condition,Rainy,Daylight,Pedestrian,Minor,3,2,102.4
+ACC00913,2020-05-02 02:00,West Bengal,State Highway,Wrong Side Driving,Clear,Night - No Light,Pedestrian,Fatal,1,0,60.7
+ACC00914,2023-04-08 23:00,Bihar,Rural Road,Signal Jumping,Windy,Night - No Light,Auto-Rickshaw,Serious,1,1,61.5
+ACC00915,2018-03-06 03:00,West Bengal,Urban Road,Distracted Driving,Rainy,Night - No Light,Bus,Serious,3,2,76.8
+ACC00916,2018-08-19 11:00,Rajasthan,Urban Road,Vehicle Failure,Windy,Daylight,Auto-Rickshaw,Minor,3,3,64.9
+ACC00917,2022-11-17 05:00,Uttar Pradesh,Urban Road,Drunk Driving,Windy,Night - No Light,Truck,Minor,4,2,93.6
+ACC00918,2018-01-05 01:00,Odisha,Rural Road,Wrong Side Driving,Hazy,Dawn/Dusk,Two-Wheeler,Minor,1,0,105.6
+ACC00919,2020-02-20 21:00,Odisha,Expressway,Drunk Driving,Clear,Dawn/Dusk,Truck,Minor,0,0,77.8
+ACC00920,2021-10-26 13:00,Uttar Pradesh,National Highway,Poor Road Condition,Rainy,Night - Street Lit,Auto-Rickshaw,Fatal,2,2,40.2
+ACC00921,2022-03-26 19:00,Gujarat,Expressway,Bad Weather,Foggy,Night - No Light,Car,Minor,2,0,30.2
+ACC00922,2019-06-07 05:00,Madhya Pradesh,Expressway,Distracted Driving,Foggy,Dawn/Dusk,Bus,Minor,1,1,91.2
+ACC00923,2019-11-09 22:00,Karnataka,National Highway,Vehicle Failure,Clear,Night - Street Lit,Pedestrian,Fatal,1,1,6.1
+ACC00924,2018-01-01 15:00,Karnataka,Urban Road,Signal Jumping,Rainy,Daylight,Car,Serious,5,1,5.3
+ACC00925,2021-05-28 23:00,Madhya Pradesh,Urban Road,Signal Jumping,Hazy,Dawn/Dusk,Bus,Serious,1,0,101.9
+ACC00926,2020-11-04 14:00,Tamil Nadu,Rural Road,Signal Jumping,Rainy,Dawn/Dusk,Truck,Serious,3,2,55.8
+ACC00927,2021-01-06 15:00,Bihar,Expressway,Vehicle Failure,Hazy,Night - Street Lit,Truck,Minor,3,3,111.5
+ACC00928,2023-06-18 06:00,Odisha,Urban Road,Vehicle Failure,Windy,Daylight,Auto-Rickshaw,Fatal,3,0,17.6
+ACC00929,2022-09-02 21:00,Madhya Pradesh,Expressway,Bad Weather,Hazy,Night - Street Lit,Truck,Fatal,0,0,48.8
+ACC00930,2022-08-03 17:00,Maharashtra,Urban Road,Drunk Driving,Foggy,Dawn/Dusk,Car,Fatal,2,1,36.3
+ACC00931,2018-12-17 21:00,Odisha,State Highway,Over Speeding,Clear,Dawn/Dusk,Auto-Rickshaw,Minor,3,1,89.8
+ACC00932,2019-12-13 21:00,Karnataka,Rural Road,Drunk Driving,Windy,Dawn/Dusk,Car,Serious,0,0,3.9
+ACC00933,2021-03-24 11:00,Madhya Pradesh,State Highway,Poor Road Condition,Hazy,Dawn/Dusk,Pedestrian,Minor,1,1,77.2
+ACC00934,2021-06-02 05:00,Uttar Pradesh,Expressway,Poor Road Condition,Rainy,Dawn/Dusk,Car,Serious,2,1,86.5
+ACC00935,2018-08-11 04:00,Rajasthan,Rural Road,Over Speeding,Windy,Night - Street Lit,Car,Fatal,0,0,33.1
+ACC00936,2021-12-01 11:00,Madhya Pradesh,National Highway,Signal Jumping,Windy,Daylight,Bus,Fatal,0,0,24.2
+ACC00937,2018-12-13 14:00,West Bengal,Urban Road,Over Speeding,Hazy,Daylight,Pedestrian,Fatal,3,0,31.7
+ACC00938,2021-05-20 20:00,Rajasthan,Rural Road,Drunk Driving,Hazy,Night - No Light,Two-Wheeler,Fatal,3,3,118.1
+ACC00939,2023-09-06 05:00,Uttar Pradesh,National Highway,Signal Jumping,Hazy,Dawn/Dusk,Pedestrian,Minor,3,1,53.6
+ACC00940,2022-10-09 22:00,Rajasthan,National Highway,Drunk Driving,Rainy,Daylight,Pedestrian,Minor,0,0,92.5
+ACC00941,2020-01-27 03:00,Bihar,Rural Road,Vehicle Failure,Windy,Night - No Light,Two-Wheeler,Serious,0,0,29.2
+ACC00942,2021-09-23 22:00,Tamil Nadu,National Highway,Wrong Side Driving,Rainy,Dawn/Dusk,Two-Wheeler,Serious,3,3,46.3
+ACC00943,2019-06-15 12:00,Karnataka,Urban Road,Bad Weather,Foggy,Night - Street Lit,Bus,Minor,1,0,10.7
+ACC00944,2021-12-08 14:00,West Bengal,Urban Road,Signal Jumping,Clear,Night - No Light,Bus,Minor,2,0,88.4
+ACC00945,2022-09-21 15:00,Karnataka,State Highway,Wrong Side Driving,Windy,Daylight,Auto-Rickshaw,Serious,2,0,111.6
+ACC00946,2023-04-17 18:00,Tamil Nadu,State Highway,Distracted Driving,Windy,Night - No Light,Bus,Fatal,1,1,17.6
+ACC00947,2019-08-19 10:00,Maharashtra,State Highway,Bad Weather,Rainy,Night - No Light,Bus,Fatal,3,0,26.5
+ACC00948,2021-12-28 14:00,Madhya Pradesh,State Highway,Vehicle Failure,Rainy,Night - Street Lit,Truck,Fatal,0,0,108.5
+ACC00949,2020-02-10 09:00,West Bengal,State Highway,Vehicle Failure,Windy,Night - No Light,Auto-Rickshaw,Serious,3,0,42.1
+ACC00950,2020-02-26 15:00,Karnataka,Rural Road,Vehicle Failure,Clear,Dawn/Dusk,Bus,Fatal,3,0,111.4
+ACC00951,2021-10-23 21:00,Karnataka,Urban Road,Signal Jumping,Clear,Daylight,Auto-Rickshaw,Minor,2,0,70.0
+ACC00952,2022-02-03 13:00,Maharashtra,National Highway,Distracted Driving,Clear,Dawn/Dusk,Bus,Minor,1,0,10.8
+ACC00953,2018-08-11 23:00,Madhya Pradesh,State Highway,Over Speeding,Clear,Daylight,Pedestrian,Serious,4,0,67.5
+ACC00954,2018-06-24 17:00,Uttar Pradesh,Rural Road,Drunk Driving,Windy,Night - Street Lit,Pedestrian,Serious,2,1,114.1
+ACC00955,2022-08-19 22:00,Madhya Pradesh,Urban Road,Vehicle Failure,Rainy,Night - Street Lit,Auto-Rickshaw,Serious,1,1,111.8
+ACC00956,2020-01-11 14:00,Tamil Nadu,Urban Road,Vehicle Failure,Rainy,Night - No Light,Pedestrian,Serious,4,3,9.1
+ACC00957,2018-12-14 05:00,Tamil Nadu,Rural Road,Wrong Side Driving,Windy,Daylight,Car,Serious,2,2,36.6
+ACC00958,2021-05-05 20:00,Tamil Nadu,Expressway,Over Speeding,Hazy,Night - Street Lit,Bus,Fatal,3,1,10.0
+ACC00959,2018-05-01 19:00,Tamil Nadu,National Highway,Vehicle Failure,Foggy,Night - Street Lit,Two-Wheeler,Fatal,1,0,88.8
+ACC00960,2019-07-05 12:00,Rajasthan,National Highway,Distracted Driving,Foggy,Daylight,Bus,Serious,4,2,29.7
+ACC00961,2023-10-05 12:00,Uttar Pradesh,Rural Road,Wrong Side Driving,Rainy,Dawn/Dusk,Car,Minor,2,0,67.6
+ACC00962,2022-09-08 05:00,Madhya Pradesh,Rural Road,Distracted Driving,Windy,Daylight,Two-Wheeler,Serious,3,0,20.7
+ACC00963,2022-07-14 00:00,Tamil Nadu,National Highway,Over Speeding,Rainy,Night - Street Lit,Bus,Serious,4,0,49.5
+ACC00964,2021-08-17 05:00,Bihar,State Highway,Over Speeding,Clear,Night - No Light,Bus,Serious,5,1,106.1
+ACC00965,2020-07-20 01:00,Bihar,National Highway,Vehicle Failure,Hazy,Dawn/Dusk,Truck,Minor,2,1,57.9
+ACC00966,2018-03-26 23:00,Maharashtra,Urban Road,Drunk Driving,Foggy,Night - Street Lit,Auto-Rickshaw,Fatal,2,2,78.0
+ACC00967,2021-05-07 05:00,Tamil Nadu,Rural Road,Drunk Driving,Rainy,Night - No Light,Bus,Fatal,5,3,49.3
+ACC00968,2020-01-28 02:00,Tamil Nadu,Urban Road,Wrong Side Driving,Clear,Night - No Light,Pedestrian,Serious,3,1,115.6
+ACC00969,2018-10-05 21:00,Maharashtra,State Highway,Over Speeding,Windy,Daylight,Two-Wheeler,Fatal,1,1,89.4
+ACC00970,2020-11-21 20:00,Madhya Pradesh,State Highway,Poor Road Condition,Foggy,Daylight,Pedestrian,Minor,0,0,82.7
+ACC00971,2019-10-03 16:00,Karnataka,National Highway,Signal Jumping,Rainy,Night - No Light,Auto-Rickshaw,Serious,4,1,43.0
+ACC00972,2020-06-08 04:00,Uttar Pradesh,Urban Road,Wrong Side Driving,Clear,Dawn/Dusk,Truck,Serious,3,0,51.4
+ACC00973,2019-03-24 03:00,Odisha,State Highway,Over Speeding,Clear,Dawn/Dusk,Auto-Rickshaw,Serious,0,0,54.9
+ACC00974,2019-10-28 12:00,Rajasthan,State Highway,Over Speeding,Clear,Night - Street Lit,Truck,Serious,3,0,59.1
+ACC00975,2019-09-27 21:00,Bihar,Urban Road,Bad Weather,Clear,Daylight,Truck,Fatal,2,1,14.5
+ACC00976,2018-05-03 21:00,Uttar Pradesh,State Highway,Distracted Driving,Windy,Daylight,Car,Fatal,0,0,105.1
+ACC00977,2019-11-07 09:00,West Bengal,National Highway,Signal Jumping,Clear,Night - Street Lit,Pedestrian,Serious,0,0,103.3
+ACC00978,2023-08-14 06:00,Tamil Nadu,National Highway,Vehicle Failure,Rainy,Dawn/Dusk,Two-Wheeler,Minor,1,1,109.8
+ACC00979,2019-05-12 18:00,Odisha,State Highway,Over Speeding,Clear,Daylight,Car,Fatal,1,1,36.2
+ACC00980,2022-02-19 02:00,Maharashtra,Urban Road,Drunk Driving,Clear,Dawn/Dusk,Auto-Rickshaw,Serious,2,0,66.9
+ACC00981,2020-08-10 20:00,Tamil Nadu,Urban Road,Bad Weather,Foggy,Night - No Light,Bus,Fatal,2,0,117.7
+ACC00982,2018-04-03 18:00,Gujarat,State Highway,Distracted Driving,Windy,Dawn/Dusk,Car,Minor,1,0,49.1
+ACC00983,2019-08-23 17:00,Bihar,Urban Road,Wrong Side Driving,Rainy,Night - No Light,Car,Minor,1,1,88.6
+ACC00984,2020-01-01 00:00,Bihar,Expressway,Wrong Side Driving,Clear,Night - No Light,Car,Serious,2,2,6.5
+ACC00985,2021-08-07 07:00,Bihar,National Highway,Bad Weather,Rainy,Night - Street Lit,Two-Wheeler,Serious,4,0,118.5
+ACC00986,2020-10-08 17:00,West Bengal,Rural Road,Over Speeding,Foggy,Dawn/Dusk,Pedestrian,Minor,1,0,4.9
+ACC00987,2023-07-27 01:00,Madhya Pradesh,State Highway,Distracted Driving,Rainy,Dawn/Dusk,Car,Fatal,1,0,119.6
+ACC00988,2021-09-22 04:00,Madhya Pradesh,National Highway,Poor Road Condition,Clear,Night - Street Lit,Bus,Minor,0,0,7.9
+ACC00989,2019-09-26 04:00,Gujarat,National Highway,Poor Road Condition,Hazy,Night - Street Lit,Two-Wheeler,Serious,4,1,92.2
+ACC00990,2021-02-14 07:00,Tamil Nadu,State Highway,Vehicle Failure,Hazy,Night - No Light,Car,Serious,1,1,102.8
+ACC00991,2018-08-26 21:00,Maharashtra,Expressway,Bad Weather,Rainy,Dawn/Dusk,Two-Wheeler,Fatal,1,0,35.7
+ACC00992,2023-09-08 05:00,Gujarat,Urban Road,Over Speeding,Rainy,Daylight,Bus,Minor,1,1,112.7
+ACC00993,2018-08-27 19:00,West Bengal,Urban Road,Signal Jumping,Foggy,Daylight,Bus,Serious,1,0,55.1
+ACC00994,2018-09-05 15:00,Bihar,Expressway,Bad Weather,Clear,Night - Street Lit,Truck,Minor,2,2,2.2
+ACC00995,2019-12-07 07:00,Tamil Nadu,Urban Road,Drunk Driving,Hazy,Dawn/Dusk,Truck,Serious,5,1,71.5
+ACC00996,2020-11-06 00:00,Madhya Pradesh,Urban Road,Over Speeding,Windy,Night - No Light,Bus,Minor,0,0,55.7
+ACC00997,2018-07-07 10:00,West Bengal,Expressway,Bad Weather,Clear,Dawn/Dusk,Car,Serious,3,1,12.3
+ACC00998,2022-08-13 18:00,Madhya Pradesh,Rural Road,Over Speeding,Clear,Night - No Light,Truck,Serious,2,0,94.0
+ACC00999,2022-11-05 10:00,West Bengal,State Highway,Signal Jumping,Clear,Night - No Light,Bus,Minor,2,1,8.0
+ACC01000,2018-04-19 16:00,Bihar,National Highway,Bad Weather,Hazy,Daylight,Bus,Minor,2,1,88.3
+ACC01001,2023-09-23 03:00,West Bengal,National Highway,Over Speeding,Clear,Night - Street Lit,Auto-Rickshaw,Serious,2,1,76.6
+ACC01002,2018-08-05 01:00,Bihar,Rural Road,Poor Road Condition,Windy,Dawn/Dusk,Pedestrian,Minor,1,1,105.1
+ACC01003,2022-12-26 22:00,Madhya Pradesh,Rural Road,Vehicle Failure,Rainy,Daylight,Two-Wheeler,Serious,1,1,20.9
+ACC01004,2022-07-15 17:00,Maharashtra,Expressway,Drunk Driving,Hazy,Night - No Light,Bus,Minor,3,1,60.9
+ACC01005,2022-09-25 17:00,Gujarat,Urban Road,Poor Road Condition,Clear,Daylight,Car,Minor,4,0,21.6
+ACC01006,2021-06-21 13:00,Uttar Pradesh,Rural Road,Vehicle Failure,Foggy,Daylight,Truck,Fatal,1,0,21.1
+ACC01007,2022-11-10 20:00,Odisha,Expressway,Wrong Side Driving,Rainy,Night - Street Lit,Auto-Rickshaw,Minor,0,0,63.3
+ACC01008,2019-04-28 10:00,Madhya Pradesh,Rural Road,Wrong Side Driving,Foggy,Dawn/Dusk,Auto-Rickshaw,Fatal,3,1,21.6
+ACC01009,2022-12-22 23:00,West Bengal,Rural Road,Bad Weather,Hazy,Daylight,Truck,Minor,0,0,19.8
+ACC01010,2019-11-05 09:00,Madhya Pradesh,Expressway,Wrong Side Driving,Foggy,Daylight,Bus,Fatal,3,1,85.2
+ACC01011,2020-03-21 10:00,Odisha,Urban Road,Wrong Side Driving,Rainy,Night - Street Lit,Car,Serious,0,0,110.5
+ACC01012,2018-10-22 20:00,Maharashtra,State Highway,Over Speeding,Rainy,Night - Street Lit,Truck,Serious,0,0,116.5
+ACC01013,2021-04-16 11:00,Karnataka,Expressway,Drunk Driving,Foggy,Night - No Light,Two-Wheeler,Serious,2,1,78.3
+ACC01014,2022-07-20 17:00,Tamil Nadu,Expressway,Vehicle Failure,Hazy,Dawn/Dusk,Two-Wheeler,Serious,5,1,17.1
+ACC01015,2021-12-14 20:00,Uttar Pradesh,Urban Road,Distracted Driving,Foggy,Daylight,Two-Wheeler,Minor,2,0,74.1
+ACC01016,2020-09-14 05:00,Karnataka,National Highway,Signal Jumping,Foggy,Daylight,Auto-Rickshaw,Fatal,4,2,85.9
+ACC01017,2020-04-28 23:00,Gujarat,Expressway,Poor Road Condition,Clear,Night - Street Lit,Pedestrian,Minor,3,0,119.6
+ACC01018,2018-12-11 04:00,Maharashtra,Urban Road,Signal Jumping,Windy,Dawn/Dusk,Two-Wheeler,Minor,1,1,5.6
+ACC01019,2020-09-08 10:00,Maharashtra,Rural Road,Drunk Driving,Rainy,Night - Street Lit,Pedestrian,Fatal,1,0,45.4
+ACC01020,2023-09-14 09:00,Madhya Pradesh,Expressway,Over Speeding,Clear,Night - Street Lit,Two-Wheeler,Minor,1,1,86.1
+ACC01021,2020-08-03 03:00,Karnataka,Rural Road,Drunk Driving,Foggy,Dawn/Dusk,Pedestrian,Fatal,1,0,75.2
+ACC01022,2022-06-23 18:00,Bihar,State Highway,Vehicle Failure,Windy,Daylight,Bus,Minor,1,0,99.9
+ACC01023,2019-05-27 17:00,Rajasthan,Rural Road,Signal Jumping,Hazy,Daylight,Bus,Fatal,1,1,82.4
+ACC01024,2023-12-06 06:00,Uttar Pradesh,State Highway,Wrong Side Driving,Rainy,Dawn/Dusk,Car,Minor,3,2,74.3
+ACC01025,2020-06-14 21:00,Uttar Pradesh,National Highway,Bad Weather,Hazy,Night - Street Lit,Bus,Serious,2,0,87.6
+ACC01026,2022-05-19 08:00,Odisha,Urban Road,Vehicle Failure,Foggy,Night - No Light,Two-Wheeler,Serious,1,0,59.5
+ACC01027,2023-08-05 12:00,Rajasthan,National Highway,Wrong Side Driving,Clear,Daylight,Car,Serious,1,0,42.7
+ACC01028,2018-08-14 22:00,Rajasthan,State Highway,Poor Road Condition,Hazy,Daylight,Two-Wheeler,Serious,1,1,102.8
+ACC01029,2022-02-14 20:00,Bihar,Urban Road,Over Speeding,Clear,Night - No Light,Two-Wheeler,Minor,1,0,118.8
+ACC01030,2022-12-16 00:00,Rajasthan,National Highway,Distracted Driving,Foggy,Dawn/Dusk,Auto-Rickshaw,Minor,1,0,105.9
+ACC01031,2020-07-01 18:00,Maharashtra,Expressway,Bad Weather,Hazy,Dawn/Dusk,Truck,Fatal,1,0,110.3
+ACC01032,2021-05-10 05:00,Uttar Pradesh,Urban Road,Poor Road Condition,Windy,Night - No Light,Truck,Minor,5,3,49.0
+ACC01033,2020-03-09 05:00,West Bengal,State Highway,Poor Road Condition,Rainy,Night - No Light,Pedestrian,Fatal,3,2,8.7
+ACC01034,2022-12-14 19:00,Madhya Pradesh,Rural Road,Poor Road Condition,Hazy,Night - Street Lit,Auto-Rickshaw,Fatal,2,1,112.0
+ACC01035,2022-07-27 18:00,Rajasthan,National Highway,Over Speeding,Windy,Night - No Light,Two-Wheeler,Minor,3,1,115.3
+ACC01036,2020-04-14 11:00,Madhya Pradesh,State Highway,Distracted Driving,Foggy,Night - No Light,Two-Wheeler,Fatal,4,1,59.3
+ACC01037,2019-09-20 18:00,Maharashtra,Rural Road,Poor Road Condition,Rainy,Dawn/Dusk,Bus,Fatal,1,1,37.8
+ACC01038,2022-12-15 09:00,Madhya Pradesh,National Highway,Over Speeding,Hazy,Daylight,Auto-Rickshaw,Serious,5,1,97.0
+ACC01039,2021-01-09 01:00,Madhya Pradesh,Urban Road,Vehicle Failure,Hazy,Daylight,Auto-Rickshaw,Fatal,1,1,26.9
+ACC01040,2021-05-04 18:00,Karnataka,Rural Road,Vehicle Failure,Rainy,Night - No Light,Truck,Minor,0,0,86.6
+ACC01041,2023-07-13 07:00,West Bengal,National Highway,Drunk Driving,Windy,Dawn/Dusk,Truck,Serious,1,1,41.4
+ACC01042,2022-12-06 18:00,Bihar,Rural Road,Over Speeding,Hazy,Dawn/Dusk,Auto-Rickshaw,Minor,2,1,52.7
+ACC01043,2018-01-08 02:00,Maharashtra,Expressway,Signal Jumping,Rainy,Night - Street Lit,Truck,Serious,2,0,53.0
+ACC01044,2022-05-08 00:00,Maharashtra,Expressway,Poor Road Condition,Foggy,Dawn/Dusk,Auto-Rickshaw,Fatal,3,2,34.6
+ACC01045,2021-12-17 13:00,Karnataka,Urban Road,Distracted Driving,Windy,Night - No Light,Auto-Rickshaw,Minor,0,0,80.7
+ACC01046,2018-03-12 13:00,Gujarat,Expressway,Vehicle Failure,Windy,Daylight,Car,Minor,0,0,47.0
+ACC01047,2020-08-04 09:00,Gujarat,Rural Road,Distracted Driving,Clear,Daylight,Two-Wheeler,Fatal,2,0,14.2
+ACC01048,2022-02-24 23:00,Tamil Nadu,Expressway,Over Speeding,Windy,Night - Street Lit,Bus,Fatal,0,0,54.9
+ACC01049,2020-11-19 08:00,Tamil Nadu,Rural Road,Signal Jumping,Foggy,Night - No Light,Auto-Rickshaw,Fatal,0,0,34.1
+ACC01050,2023-08-26 02:00,Bihar,Expressway,Drunk Driving,Windy,Dawn/Dusk,Truck,Serious,1,0,27.6
+ACC01051,2018-11-17 17:00,Madhya Pradesh,Urban Road,Wrong Side Driving,Rainy,Dawn/Dusk,Two-Wheeler,Minor,3,2,8.9
+ACC01052,2022-12-27 17:00,Odisha,Urban Road,Signal Jumping,Foggy,Daylight,Auto-Rickshaw,Minor,1,0,68.5
+ACC01053,2019-07-18 04:00,Madhya Pradesh,Rural Road,Poor Road Condition,Rainy,Night - No Light,Auto-Rickshaw,Serious,2,0,72.5
+ACC01054,2019-10-24 01:00,Bihar,Rural Road,Distracted Driving,Hazy,Night - No Light,Truck,Fatal,3,1,78.2
+ACC01055,2019-07-02 00:00,West Bengal,State Highway,Vehicle Failure,Windy,Daylight,Auto-Rickshaw,Minor,1,0,101.3
+ACC01056,2020-07-01 20:00,Odisha,Urban Road,Bad Weather,Foggy,Daylight,Auto-Rickshaw,Serious,0,0,23.8
+ACC01057,2022-03-15 18:00,Karnataka,National Highway,Wrong Side Driving,Hazy,Daylight,Pedestrian,Minor,1,0,70.2
+ACC01058,2022-04-04 20:00,Karnataka,Expressway,Distracted Driving,Foggy,Night - No Light,Truck,Minor,4,0,17.1
+ACC01059,2022-07-14 21:00,Gujarat,State Highway,Wrong Side Driving,Windy,Daylight,Truck,Serious,0,0,13.3
+ACC01060,2022-11-11 05:00,Madhya Pradesh,Urban Road,Wrong Side Driving,Clear,Night - Street Lit,Two-Wheeler,Minor,2,1,112.6
+ACC01061,2022-07-27 18:00,Uttar Pradesh,Urban Road,Wrong Side Driving,Rainy,Daylight,Auto-Rickshaw,Fatal,5,2,112.6
+ACC01062,2022-11-24 08:00,Uttar Pradesh,State Highway,Drunk Driving,Rainy,Daylight,Two-Wheeler,Serious,2,1,22.5
+ACC01063,2018-06-14 10:00,Maharashtra,Urban Road,Poor Road Condition,Foggy,Daylight,Auto-Rickshaw,Minor,2,0,34.9
+ACC01064,2023-04-10 00:00,Rajasthan,Rural Road,Distracted Driving,Hazy,Night - Street Lit,Truck,Minor,1,0,58.0
+ACC01065,2018-03-26 02:00,Madhya Pradesh,State Highway,Drunk Driving,Hazy,Dawn/Dusk,Truck,Minor,2,1,66.5
+ACC01066,2023-09-13 00:00,Uttar Pradesh,Rural Road,Vehicle Failure,Hazy,Daylight,Pedestrian,Fatal,1,0,87.9
+ACC01067,2023-10-23 13:00,Madhya Pradesh,Expressway,Poor Road Condition,Foggy,Dawn/Dusk,Bus,Fatal,0,0,64.3
+ACC01068,2021-01-10 01:00,Bihar,Urban Road,Signal Jumping,Foggy,Daylight,Car,Fatal,2,1,20.0
+ACC01069,2023-03-01 20:00,Odisha,Expressway,Poor Road Condition,Foggy,Dawn/Dusk,Two-Wheeler,Fatal,1,0,54.4
+ACC01070,2019-11-10 17:00,Gujarat,Rural Road,Vehicle Failure,Hazy,Night - Street Lit,Two-Wheeler,Minor,2,2,109.0
+ACC01071,2022-04-12 19:00,Madhya Pradesh,Urban Road,Vehicle Failure,Hazy,Daylight,Pedestrian,Minor,3,1,89.1
+ACC01072,2022-11-12 00:00,Rajasthan,Expressway,Poor Road Condition,Rainy,Dawn/Dusk,Car,Fatal,2,0,58.4
+ACC01073,2018-04-11 13:00,Karnataka,Expressway,Poor Road Condition,Foggy,Dawn/Dusk,Car,Fatal,0,0,64.2
+ACC01074,2018-09-17 17:00,Bihar,State Highway,Signal Jumping,Foggy,Night - No Light,Bus,Serious,2,0,95.5
+ACC01075,2020-09-19 04:00,Odisha,Urban Road,Wrong Side Driving,Rainy,Daylight,Truck,Minor,2,0,46.4
+ACC01076,2023-09-22 08:00,Madhya Pradesh,Urban Road,Vehicle Failure,Rainy,Dawn/Dusk,Truck,Serious,1,0,89.1
+ACC01077,2020-08-20 04:00,Maharashtra,State Highway,Wrong Side Driving,Foggy,Night - Street Lit,Auto-Rickshaw,Minor,3,0,34.5
+ACC01078,2021-09-08 08:00,Rajasthan,Rural Road,Drunk Driving,Rainy,Night - Street Lit,Pedestrian,Minor,2,0,23.4
+ACC01079,2019-02-07 20:00,Maharashtra,Expressway,Bad Weather,Clear,Night - No Light,Two-Wheeler,Fatal,1,1,87.2
+ACC01080,2023-12-28 20:00,Bihar,Urban Road,Drunk Driving,Rainy,Night - Street Lit,Two-Wheeler,Fatal,0,0,12.2
+ACC01081,2020-03-09 09:00,Madhya Pradesh,State Highway,Drunk Driving,Foggy,Night - No Light,Bus,Fatal,0,0,96.5
+ACC01082,2018-07-04 09:00,Karnataka,State Highway,Over Speeding,Foggy,Night - No Light,Auto-Rickshaw,Fatal,3,1,80.1
+ACC01083,2023-11-23 17:00,West Bengal,Expressway,Wrong Side Driving,Rainy,Night - No Light,Pedestrian,Serious,1,0,106.6
+ACC01084,2021-01-24 09:00,Gujarat,Urban Road,Wrong Side Driving,Windy,Daylight,Auto-Rickshaw,Serious,2,0,14.6
+ACC01085,2018-01-10 09:00,Uttar Pradesh,Urban Road,Poor Road Condition,Windy,Night - Street Lit,Two-Wheeler,Fatal,3,2,98.6
+ACC01086,2020-10-19 04:00,Maharashtra,National Highway,Vehicle Failure,Foggy,Daylight,Truck,Serious,1,0,54.5
+ACC01087,2018-06-22 09:00,Madhya Pradesh,Rural Road,Vehicle Failure,Windy,Daylight,Bus,Minor,0,0,93.0
+ACC01088,2023-07-25 07:00,Karnataka,Urban Road,Drunk Driving,Clear,Dawn/Dusk,Pedestrian,Minor,1,1,90.0
+ACC01089,2020-09-13 15:00,Tamil Nadu,National Highway,Signal Jumping,Rainy,Dawn/Dusk,Bus,Fatal,5,1,8.4
+ACC01090,2022-04-04 03:00,Rajasthan,Urban Road,Signal Jumping,Clear,Dawn/Dusk,Truck,Serious,5,2,36.9
+ACC01091,2019-10-12 22:00,Odisha,State Highway,Distracted Driving,Foggy,Night - No Light,Auto-Rickshaw,Minor,2,1,80.5
+ACC01092,2020-12-02 00:00,Uttar Pradesh,Urban Road,Signal Jumping,Clear,Daylight,Auto-Rickshaw,Minor,5,3,6.2
+ACC01093,2020-08-12 23:00,Bihar,Rural Road,Bad Weather,Rainy,Night - No Light,Car,Minor,2,2,14.3
+ACC01094,2023-03-24 18:00,Gujarat,Rural Road,Poor Road Condition,Clear,Daylight,Pedestrian,Serious,3,1,20.7
+ACC01095,2022-04-18 19:00,Karnataka,National Highway,Drunk Driving,Foggy,Dawn/Dusk,Truck,Minor,3,0,94.9
+ACC01096,2023-02-23 06:00,Gujarat,National Highway,Wrong Side Driving,Rainy,Night - Street Lit,Auto-Rickshaw,Fatal,1,1,16.5
+ACC01097,2020-01-20 21:00,Madhya Pradesh,Rural Road,Bad Weather,Foggy,Night - No Light,Car,Minor,2,1,22.9
+ACC01098,2020-01-20 20:00,Madhya Pradesh,Rural Road,Signal Jumping,Windy,Night - Street Lit,Truck,Fatal,1,0,26.5
+ACC01099,2023-08-19 15:00,Tamil Nadu,Urban Road,Vehicle Failure,Foggy,Dawn/Dusk,Two-Wheeler,Fatal,0,0,52.1
+ACC01100,2021-04-04 05:00,Karnataka,Expressway,Drunk Driving,Hazy,Night - Street Lit,Car,Minor,0,0,95.2
+ACC01101,2018-07-21 16:00,Rajasthan,State Highway,Drunk Driving,Clear,Night - No Light,Pedestrian,Serious,0,0,51.5
+ACC01102,2023-01-06 12:00,Odisha,Urban Road,Distracted Driving,Rainy,Daylight,Truck,Fatal,2,0,27.6
+ACC01103,2018-11-21 10:00,Uttar Pradesh,Rural Road,Over Speeding,Rainy,Dawn/Dusk,Truck,Serious,0,0,2.7
+ACC01104,2022-12-26 13:00,Rajasthan,Rural Road,Signal Jumping,Foggy,Night - Street Lit,Car,Serious,2,0,65.4
+ACC01105,2020-04-12 01:00,Maharashtra,Rural Road,Bad Weather,Windy,Night - No Light,Truck,Fatal,5,3,95.2
+ACC01106,2021-03-24 23:00,Rajasthan,National Highway,Wrong Side Driving,Foggy,Night - No Light,Auto-Rickshaw,Fatal,2,0,11.1
+ACC01107,2022-04-12 17:00,Odisha,Expressway,Vehicle Failure,Rainy,Daylight,Pedestrian,Serious,1,0,87.4
+ACC01108,2019-07-14 20:00,Uttar Pradesh,State Highway,Vehicle Failure,Clear,Night - No Light,Bus,Minor,1,0,2.5
+ACC01109,2020-02-16 05:00,Madhya Pradesh,Rural Road,Wrong Side Driving,Windy,Daylight,Bus,Serious,1,1,30.2
+ACC01110,2023-08-10 01:00,Bihar,Urban Road,Wrong Side Driving,Rainy,Dawn/Dusk,Two-Wheeler,Minor,2,0,89.1
+ACC01111,2018-01-28 15:00,Rajasthan,National Highway,Poor Road Condition,Clear,Daylight,Auto-Rickshaw,Serious,3,0,110.3
+ACC01112,2021-05-09 22:00,Bihar,State Highway,Poor Road Condition,Rainy,Daylight,Two-Wheeler,Fatal,0,0,34.9
+ACC01113,2020-08-01 17:00,Rajasthan,Rural Road,Distracted Driving,Rainy,Daylight,Pedestrian,Fatal,2,1,21.1
+ACC01114,2019-05-10 15:00,Karnataka,State Highway,Distracted Driving,Foggy,Night - No Light,Two-Wheeler,Minor,3,0,109.7
+ACC01115,2021-03-06 06:00,Tamil Nadu,Urban Road,Signal Jumping,Hazy,Daylight,Truck,Minor,1,0,86.0
+ACC01116,2022-11-21 13:00,West Bengal,Urban Road,Signal Jumping,Rainy,Dawn/Dusk,Two-Wheeler,Fatal,3,0,76.1
+ACC01117,2021-03-12 22:00,Karnataka,State Highway,Distracted Driving,Foggy,Night - No Light,Auto-Rickshaw,Serious,2,1,76.7
+ACC01118,2019-09-10 07:00,Maharashtra,Expressway,Vehicle Failure,Windy,Night - Street Lit,Truck,Serious,0,0,26.8
+ACC01119,2023-08-24 05:00,Uttar Pradesh,National Highway,Signal Jumping,Hazy,Daylight,Pedestrian,Serious,4,1,66.9
+ACC01120,2023-06-26 07:00,Maharashtra,Expressway,Vehicle Failure,Hazy,Dawn/Dusk,Pedestrian,Minor,0,0,96.7
+ACC01121,2018-08-22 05:00,Uttar Pradesh,Urban Road,Poor Road Condition,Windy,Daylight,Auto-Rickshaw,Serious,3,0,67.2
+ACC01122,2023-10-15 09:00,Bihar,Urban Road,Over Speeding,Windy,Dawn/Dusk,Bus,Minor,2,0,91.4
+ACC01123,2018-09-12 00:00,Maharashtra,Urban Road,Poor Road Condition,Foggy,Night - Street Lit,Auto-Rickshaw,Minor,1,0,7.8
+ACC01124,2019-10-19 06:00,Maharashtra,Rural Road,Drunk Driving,Clear,Dawn/Dusk,Two-Wheeler,Fatal,2,0,50.1
+ACC01125,2019-12-23 14:00,Gujarat,Rural Road,Wrong Side Driving,Clear,Dawn/Dusk,Pedestrian,Minor,5,3,60.8
+ACC01126,2022-05-09 16:00,West Bengal,National Highway,Poor Road Condition,Clear,Night - Street Lit,Pedestrian,Minor,4,2,11.2
+ACC01127,2021-07-03 15:00,Madhya Pradesh,State Highway,Wrong Side Driving,Windy,Night - No Light,Bus,Serious,0,0,85.8
+ACC01128,2023-03-18 18:00,Karnataka,Rural Road,Wrong Side Driving,Foggy,Dawn/Dusk,Two-Wheeler,Fatal,3,1,45.0
+ACC01129,2021-09-15 08:00,Maharashtra,Expressway,Wrong Side Driving,Rainy,Daylight,Auto-Rickshaw,Fatal,2,1,31.8
+ACC01130,2020-01-20 05:00,Uttar Pradesh,Expressway,Distracted Driving,Foggy,Night - No Light,Car,Minor,5,2,119.9
+ACC01131,2020-06-18 20:00,West Bengal,National Highway,Bad Weather,Hazy,Daylight,Two-Wheeler,Fatal,3,0,63.7
+ACC01132,2022-10-04 00:00,Tamil Nadu,State Highway,Signal Jumping,Clear,Night - No Light,Auto-Rickshaw,Fatal,2,0,61.4
+ACC01133,2022-05-02 17:00,Rajasthan,Expressway,Over Speeding,Windy,Daylight,Bus,Minor,2,0,102.6
+ACC01134,2018-01-18 16:00,Maharashtra,State Highway,Bad Weather,Hazy,Dawn/Dusk,Bus,Minor,1,0,114.0
+ACC01135,2022-05-21 12:00,Karnataka,Expressway,Drunk Driving,Hazy,Daylight,Truck,Serious,5,1,92.0
+ACC01136,2020-11-25 11:00,Uttar Pradesh,Urban Road,Drunk Driving,Windy,Night - No Light,Car,Fatal,3,2,94.9
+ACC01137,2022-02-17 05:00,Madhya Pradesh,Urban Road,Signal Jumping,Hazy,Dawn/Dusk,Pedestrian,Minor,3,0,113.2
+ACC01138,2019-04-12 14:00,Maharashtra,Expressway,Wrong Side Driving,Windy,Night - Street Lit,Auto-Rickshaw,Minor,2,1,8.2
+ACC01139,2020-06-15 22:00,Karnataka,State Highway,Distracted Driving,Rainy,Night - Street Lit,Two-Wheeler,Minor,1,0,64.4
+ACC01140,2023-03-19 18:00,Madhya Pradesh,State Highway,Vehicle Failure,Rainy,Night - Street Lit,Car,Serious,4,1,3.0
+ACC01141,2018-10-15 18:00,Gujarat,Expressway,Over Speeding,Hazy,Daylight,Auto-Rickshaw,Fatal,3,2,106.4
+ACC01142,2023-09-19 10:00,Karnataka,Rural Road,Poor Road Condition,Clear,Night - No Light,Bus,Minor,1,0,9.1
+ACC01143,2022-06-07 09:00,Karnataka,Rural Road,Drunk Driving,Clear,Night - Street Lit,Car,Fatal,3,0,97.6
+ACC01144,2021-11-27 12:00,West Bengal,State Highway,Over Speeding,Clear,Night - Street Lit,Two-Wheeler,Minor,2,1,8.1
+ACC01145,2018-01-03 02:00,Rajasthan,State Highway,Drunk Driving,Hazy,Daylight,Pedestrian,Fatal,2,0,78.4
+ACC01146,2019-08-27 11:00,Bihar,Rural Road,Bad Weather,Clear,Night - No Light,Pedestrian,Serious,0,0,21.6
+ACC01147,2019-10-27 22:00,Odisha,Expressway,Poor Road Condition,Windy,Night - No Light,Truck,Serious,3,0,36.6
+ACC01148,2020-05-22 01:00,Madhya Pradesh,State Highway,Distracted Driving,Clear,Night - Street Lit,Pedestrian,Fatal,0,0,102.6
+ACC01149,2021-02-24 05:00,Bihar,Rural Road,Distracted Driving,Hazy,Night - No Light,Bus,Serious,4,1,103.4
+ACC01150,2018-09-21 00:00,Bihar,Rural Road,Signal Jumping,Hazy,Daylight,Bus,Minor,3,0,22.4
+ACC01151,2023-09-27 06:00,Uttar Pradesh,State Highway,Wrong Side Driving,Windy,Night - Street Lit,Pedestrian,Serious,4,2,63.0
+ACC01152,2018-03-08 01:00,Rajasthan,National Highway,Over Speeding,Hazy,Night - No Light,Auto-Rickshaw,Serious,2,2,74.6
+ACC01153,2021-11-15 03:00,Rajasthan,Rural Road,Wrong Side Driving,Clear,Daylight,Truck,Minor,3,0,36.1
+ACC01154,2021-09-04 08:00,West Bengal,Rural Road,Wrong Side Driving,Windy,Daylight,Bus,Minor,2,0,90.7
+ACC01155,2023-09-14 12:00,Madhya Pradesh,National Highway,Over Speeding,Hazy,Night - Street Lit,Car,Minor,1,0,71.2
+ACC01156,2018-09-09 18:00,Karnataka,National Highway,Wrong Side Driving,Foggy,Dawn/Dusk,Pedestrian,Serious,3,2,89.2
+ACC01157,2022-05-23 05:00,Karnataka,State Highway,Distracted Driving,Rainy,Daylight,Pedestrian,Serious,0,0,86.3
+ACC01158,2022-08-24 23:00,Tamil Nadu,State Highway,Poor Road Condition,Windy,Night - No Light,Bus,Fatal,1,1,108.6
+ACC01159,2021-07-02 07:00,Tamil Nadu,State Highway,Vehicle Failure,Hazy,Dawn/Dusk,Truck,Fatal,2,1,76.3
+ACC01160,2019-01-04 00:00,Uttar Pradesh,Urban Road,Bad Weather,Windy,Night - Street Lit,Bus,Fatal,3,0,76.7
+ACC01161,2018-08-20 19:00,Uttar Pradesh,Rural Road,Drunk Driving,Windy,Night - Street Lit,Truck,Serious,2,0,94.7
+ACC01162,2019-06-28 11:00,Gujarat,Rural Road,Signal Jumping,Windy,Daylight,Two-Wheeler,Fatal,1,0,81.9
+ACC01163,2019-07-21 06:00,Tamil Nadu,State Highway,Vehicle Failure,Clear,Night - Street Lit,Bus,Fatal,2,1,104.5
+ACC01164,2019-04-07 19:00,Uttar Pradesh,National Highway,Over Speeding,Windy,Night - No Light,Two-Wheeler,Minor,3,1,86.8
+ACC01165,2019-08-18 16:00,West Bengal,Expressway,Distracted Driving,Windy,Night - Street Lit,Bus,Minor,1,0,43.0
+ACC01166,2018-02-10 22:00,Odisha,National Highway,Drunk Driving,Hazy,Night - No Light,Pedestrian,Minor,0,0,84.0
+ACC01167,2023-09-06 12:00,Rajasthan,Expressway,Over Speeding,Hazy,Night - Street Lit,Auto-Rickshaw,Fatal,0,0,61.1
+ACC01168,2022-02-11 22:00,West Bengal,Rural Road,Drunk Driving,Windy,Daylight,Car,Serious,2,0,6.9
+ACC01169,2021-03-28 12:00,Maharashtra,State Highway,Drunk Driving,Windy,Night - No Light,Bus,Serious,1,1,80.0
+ACC01170,2022-10-16 09:00,Uttar Pradesh,Expressway,Over Speeding,Clear,Dawn/Dusk,Two-Wheeler,Minor,1,0,55.8
+ACC01171,2023-04-09 16:00,Maharashtra,Expressway,Bad Weather,Rainy,Night - Street Lit,Bus,Minor,1,1,117.4
+ACC01172,2021-03-03 14:00,West Bengal,Urban Road,Distracted Driving,Rainy,Daylight,Pedestrian,Minor,1,1,104.8
+ACC01173,2021-06-17 18:00,Maharashtra,Urban Road,Poor Road Condition,Foggy,Night - No Light,Auto-Rickshaw,Serious,0,0,34.8
+ACC01174,2023-12-07 07:00,Rajasthan,National Highway,Distracted Driving,Hazy,Night - No Light,Car,Minor,2,0,110.2
+ACC01175,2018-02-07 07:00,Rajasthan,Expressway,Over Speeding,Rainy,Daylight,Truck,Fatal,1,1,58.3
+ACC01176,2021-12-17 06:00,Madhya Pradesh,State Highway,Signal Jumping,Windy,Daylight,Pedestrian,Serious,2,1,106.5
+ACC01177,2018-06-22 13:00,West Bengal,State Highway,Bad Weather,Rainy,Night - No Light,Car,Serious,2,2,103.1
+ACC01178,2018-11-26 06:00,Odisha,National Highway,Poor Road Condition,Rainy,Daylight,Pedestrian,Serious,2,0,2.6
+ACC01179,2022-09-28 05:00,Rajasthan,Rural Road,Vehicle Failure,Clear,Night - No Light,Car,Fatal,3,3,43.2
+ACC01180,2019-07-27 04:00,Maharashtra,Expressway,Signal Jumping,Hazy,Dawn/Dusk,Car,Minor,3,0,62.3
+ACC01181,2018-03-11 07:00,Rajasthan,Expressway,Vehicle Failure,Windy,Night - Street Lit,Truck,Serious,3,0,28.0
+ACC01182,2023-07-14 19:00,Tamil Nadu,Rural Road,Poor Road Condition,Windy,Dawn/Dusk,Auto-Rickshaw,Fatal,1,0,43.6
+ACC01183,2023-12-25 08:00,Rajasthan,Urban Road,Drunk Driving,Hazy,Night - Street Lit,Car,Minor,2,2,107.0
+ACC01184,2022-12-13 03:00,Tamil Nadu,State Highway,Distracted Driving,Clear,Daylight,Pedestrian,Fatal,0,0,118.3
+ACC01185,2022-10-03 19:00,Bihar,Rural Road,Signal Jumping,Foggy,Night - Street Lit,Truck,Serious,3,2,104.6
+ACC01186,2022-08-12 12:00,Madhya Pradesh,State Highway,Over Speeding,Hazy,Daylight,Auto-Rickshaw,Fatal,2,0,47.8
+ACC01187,2020-06-28 13:00,Tamil Nadu,Expressway,Signal Jumping,Hazy,Night - Street Lit,Auto-Rickshaw,Fatal,4,0,24.9
+ACC01188,2020-05-24 05:00,Bihar,National Highway,Signal Jumping,Windy,Night - Street Lit,Auto-Rickshaw,Minor,1,0,50.4
+ACC01189,2020-07-20 03:00,Gujarat,Rural Road,Bad Weather,Hazy,Night - Street Lit,Auto-Rickshaw,Minor,3,0,22.9
+ACC01190,2020-12-26 08:00,Maharashtra,National Highway,Vehicle Failure,Rainy,Daylight,Auto-Rickshaw,Minor,2,0,117.5
+ACC01191,2019-12-10 17:00,Odisha,Expressway,Vehicle Failure,Clear,Night - No Light,Truck,Minor,4,1,59.6
+ACC01192,2019-03-26 03:00,Madhya Pradesh,State Highway,Poor Road Condition,Hazy,Dawn/Dusk,Auto-Rickshaw,Fatal,2,2,105.5
+ACC01193,2020-06-10 05:00,Odisha,Urban Road,Drunk Driving,Hazy,Night - Street Lit,Truck,Serious,4,0,29.3
+ACC01194,2020-04-10 00:00,Maharashtra,State Highway,Over Speeding,Hazy,Night - Street Lit,Car,Serious,2,0,9.1
+ACC01195,2023-12-14 07:00,Odisha,State Highway,Poor Road Condition,Foggy,Daylight,Pedestrian,Fatal,2,1,99.5
+ACC01196,2021-08-26 20:00,West Bengal,Expressway,Over Speeding,Foggy,Daylight,Truck,Fatal,1,1,37.8
+ACC01197,2022-01-13 19:00,Maharashtra,National Highway,Drunk Driving,Hazy,Daylight,Two-Wheeler,Serious,2,2,36.2
+ACC01198,2019-10-15 03:00,Tamil Nadu,National Highway,Signal Jumping,Foggy,Night - Street Lit,Truck,Minor,3,1,91.9
+ACC01199,2020-08-13 06:00,Bihar,State Highway,Poor Road Condition,Rainy,Night - No Light,Auto-Rickshaw,Minor,4,1,92.5
+ACC01200,2020-05-26 22:00,Uttar Pradesh,National Highway,Signal Jumping,Foggy,Daylight,Pedestrian,Minor,2,2,17.3
